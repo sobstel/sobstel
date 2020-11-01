@@ -8,7 +8,7 @@
 - name: golazon
   full_name: sobstel/golazon
   html_url: https://github.com/sobstel/golazon
-  description: football data mnmlist way
+  description: Football data mnmlist way. Built with Next.js and Ruby.
   fork: false
   stargazers_count: 25
 - name: sobstel.github.com
@@ -107,7 +107,7 @@
   full_name: sobstel/react-native-animatable-unmountable
   html_url: https://github.com/sobstel/react-native-animatable-unmountable
   description: Declarative transitions and animations for React Native (with unmount
-    effect)
+    effect).
   fork: false
   stargazers_count: 11
 - name: react-navigation-workshop-examples
@@ -163,7 +163,7 @@
   html_url: https://github.com/sobstel/jsondocr
   description: DSL for documenting JSON structure
   fork: false
-  stargazers_count: 0
+  stargazers_count: 1
 - name: AsyncHTTP
   full_name: sobstel/AsyncHTTP
   html_url: https://github.com/sobstel/AsyncHTTP

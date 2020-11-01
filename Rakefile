@@ -6,7 +6,6 @@ require 'open-uri'
 require 'yaml'
 require 'time'
 require 'nokogiri'
-require 'gemoji-parser'
 require 'quotable'
 require 'liquid'
 require 'dotenv/load'
@@ -76,13 +75,12 @@ end
 
 desc 'Import GitHub repos'
 task :import_github_repos do
-  url_page1 = format('https://api.github.com/users/%s/repos?sort=pushed', 'sobstel')
-  url_page2 = format('https://api.github.com/users/%s/repos?sort=pushed&page=2', 'sobstel')
-
-  repos = fetch_repos(url_page1).concat(fetch_repos(url_page2))
+  repos = (1..2).flat_map do |page|
+    url = format('https://api.github.com/users/%s/repos?sort=pushed&page=%s', 'sobstel', page)
+    fetch_repos(url)
+  end
   save_data('repos', repos)
 end
-
 
 desc 'Import GitHub contributions'
 task :import_github_contributions do
