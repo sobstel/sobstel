@@ -72,8 +72,6 @@ task :import_github_repos do
   url_page2 = format('https://api.github.com/users/%s/repos?page=2', 'sobstel')
 
   repos = fetch_repos(url_page1).concat(fetch_repos(url_page2))
-  repos = repos.sort_by { |repo| repo['stargazers_count'] }.reverse
-
   save_data('repos', repos)
 
   # repos, forks = all_repos.partition { |repo| !repo['fork'] }

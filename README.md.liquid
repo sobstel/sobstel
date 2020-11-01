@@ -1,12 +1,10 @@
-Creator of
-<a href="https://www.sobstel.org/hydropuzzle/" target="_blank">Hydropuzzle</a>
-and <a href="https://golazon.com" target="_blank">Golazon</a>
-
 ## POPULAR REPOS
 
-{% for repo in repos limit:10 %}
-- [{{ repo.name }}]({{ repo.html_url }})
-{%- if repo.description.size > 0 %} - {{ repo.description }}{% endif -%}
+{% for repo in repos %}
+  {%- if repo.stargazers_count >= 10 -%}
+    - [{{ repo.name }}]({{ repo.html_url }})
+    {%- if repo.description.size > 0 %} (☆ {{ repo.stargazers_count }}) - {{ repo.description }}{% endif -%}
+  {%- endif -%}
 {% endfor %}
 
 <!--
