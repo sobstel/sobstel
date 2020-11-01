@@ -1,10 +1,10 @@
 ## POPULAR REPOS
 
 {% for repo in repos %}
-  {%- if repo.stargazers_count >= 10 -%}
-    - [{{ repo.name }}]({{ repo.html_url }})
-    {%- if repo.description.size > 0 %} (☆ {{ repo.stargazers_count }}) - {{ repo.description }}{% endif -%}
-  {%- endif -%}
+{%- if repo.stargazers_count >= 10 %}
+- [{{ repo.name }}]({{ repo.html_url }}) (☆ {{ repo.stargazers_count }})
+{%- if repo.description.size > 0 %} - {{ repo.description }}{% endif %}
+{%- endif -%}
 {% endfor %}
 
 <!--
