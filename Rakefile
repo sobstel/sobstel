@@ -38,7 +38,6 @@ def fetch_repos(url)
       .sort_by { |repo| repo['pushed_at'] }
       .collect { |repo| repo.select { |key, _| allowed_repo_attrs.include? key } }
       .reverse
-  #       .tap { |repo| repo['description'] = EmojiParser.detokenize(repo['description']) if repo['description'] }
 end
 
 desc 'Publish live'
@@ -47,7 +46,6 @@ task :publish, :message do |_, args|
   message = args[:message]
 
   # task(:import_github_repos).execute
-  # task(:import_gists).execute
   # task(:import_github_contributions).execute
 
   sh 'git add --all .'
@@ -63,14 +61,16 @@ task :generate_readme do
     next repo['stargazers_count'] >= 9
   end
   forks = repos.filter { |repo| repo['fork'] }
+  contribs = load_data('contribs')
 
   template = Liquid::Template.parse(File.read('README.md.liquid'))
   content = template.render(
     'popular_repos' => popular_repos,
     'other_repos' => other_repos,
     'forks' => forks,
-    'contribs' => load_data('contribs'),
+    'contribs' => contribs,
   )
+
   File.write('README.md', content)
 end
 
@@ -81,15 +81,6 @@ task :import_github_repos do
 
   repos = fetch_repos(url_page1).concat(fetch_repos(url_page2))
   save_data('repos', repos)
-
-  # repos, forks = all_repos.partition { |repo| !repo['fork'] }
-  # popular_repos, other_repos = repos.partition do |repo|
-  #   next repo['stargazers_count'] >= 9
-  # end
-
-  # save_data('popular_repos', popular_repos)
-  # save_data('other_repos', other_repos)
-  # save_data('forks', forks)
 end
 
 
@@ -109,13 +100,13 @@ task :import_github_contributions do
     contributions = html_doc.css('.contribution-activity-listing a[data-hovercard-type="repository"]')
 
     contributions.each do |contribution|
-      github_contributions << contribution.text.strip
+      github_contributions.unshift(contribution.text.strip)
     end
   end
 
   github_contributions.uniq!
-  github_contributions.reject! { |repo| repo.start_with?('sobstel', 'golazon', 'hydropuzzle') }
-  github_contributions.sort_by!(&:downcase)
+  github_contributions.reject! { |repo| repo.start_with?('sobstel', 'golazon') }
+  github_contributions.reject! { |repo| repo.includes?('awesome') }
 
   save_data('contribs', github_contributions)
 end
