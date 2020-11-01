@@ -1,7 +1,7 @@
 ## POPULAR REPOS
 
 {% for repo in popular_repos %}
-- [{{ repo.name }}]({{ repo.html_url }}) (☆ {{ repo.stargazers_count }}) - {{ repo.description }}
+- [{{ repo.name }}]({{ repo.html_url }}) (★ {{ repo.stargazers_count }}) - {{ repo.description }}
 {%- endfor %}
 
 ## OTHER REPOS
@@ -9,6 +9,7 @@
 {% for repo in other_repos %}
 - [{{ repo.name }}]({{ repo.html_url }}) - {{ repo.description }}
 {%- endfor %}
+- [all...](https://github.com/sobstel?tab=repositories)
 
 ## CONTRIBUTIONS
 

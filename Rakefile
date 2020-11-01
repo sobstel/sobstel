@@ -106,7 +106,7 @@ task :import_github_contributions do
 
   github_contributions.uniq!
   github_contributions.reject! { |repo| repo.start_with?('sobstel', 'golazon') }
-  github_contributions.reject! { |repo| repo.includes?('awesome') }
+  github_contributions.reject! { |repo| repo.include?('awesome') }
 
   save_data('contribs', github_contributions)
 end
