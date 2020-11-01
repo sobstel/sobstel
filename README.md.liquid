@@ -1,11 +1,26 @@
 ## POPULAR REPOS
 
-{% for repo in repos %}
-{%- if repo.stargazers_count >= 10 %}
-- [{{ repo.name }}]({{ repo.html_url }}) (☆ {{ repo.stargazers_count }})
-{%- if repo.description.size > 0 %} - {{ repo.description }}{% endif %}
-{%- endif -%}
-{% endfor %}
+{% for repo in popular_repos %}
+- [{{ repo.name }}]({{ repo.html_url }}) (☆ {{ repo.stargazers_count }}) - {{ repo.description }}
+{%- endfor %}
+
+## OTHER REPOS
+
+{% for repo in other_repos %}
+- [{{ repo.name }}]({{ repo.html_url }}) - {{ repo.description }}
+{%- endfor %}
+
+## CONTRIBUTIONS
+
+{% for contrib in contribs -%}
+[{{ contrib }}](https://github.com/{{ contrib}}){% unless forloop.last %}, {% endunless %}
+{%- endfor %}
+
+Current forks:
+{% for repo in forks -%}
+[{{ repo.name }}]({{ repo.html_url }}){% unless forloop.last %}, {% endunless %}
+{%- endfor %}
+
 
 <!--
 **sobstel/sobstel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

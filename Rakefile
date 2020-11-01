@@ -58,9 +58,17 @@ end
 
 desc 'Generate README'
 task :generate_readme do
+  repos = load_data('repos')
+  popular_repos, other_repos = repos.filter { |repo| repo['stargazers_count'] > 0 }.partition do |repo|
+    next repo['stargazers_count'] >= 9
+  end
+  forks = repos.filter { |repo| repo['fork'] }
+
   template = Liquid::Template.parse(File.read('README.md.liquid'))
   content = template.render(
-    'repos' => load_data('repos'),
+    'popular_repos' => popular_repos,
+    'other_repos' => other_repos,
+    'forks' => forks,
     'contribs' => load_data('contribs'),
   )
   File.write('README.md', content)
@@ -68,8 +76,8 @@ end
 
 desc 'Import GitHub repos'
 task :import_github_repos do
-  url_page1 = format('https://api.github.com/users/%s/repos', 'sobstel')
-  url_page2 = format('https://api.github.com/users/%s/repos?page=2', 'sobstel')
+  url_page1 = format('https://api.github.com/users/%s/repos?sort=pushed', 'sobstel')
+  url_page2 = format('https://api.github.com/users/%s/repos?sort=pushed&page=2', 'sobstel')
 
   repos = fetch_repos(url_page1).concat(fetch_repos(url_page2))
   save_data('repos', repos)
