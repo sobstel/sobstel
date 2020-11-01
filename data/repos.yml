@@ -1,0 +1,153 @@
+---
+- name: metaphore
+  full_name: sobstel/metaphore
+  html_url: https://github.com/sobstel/metaphore
+  description: Cache slam defense using a semaphore to prevent dogpile effect.
+  fork: false
+  stargazers_count: 96
+- name: sequent
+  full_name: sobstel/sequent
+  html_url: https://github.com/sobstel/sequent
+  description: Short-term memory training game (mobile). Built with React Native and
+    Redux.
+  fork: false
+  stargazers_count: 71
+- name: jsonp.js
+  full_name: sobstel/jsonp.js
+  html_url: https://github.com/sobstel/jsonp.js
+  description: Lightweight JSONP library for cross-domain ajax calls.
+  fork: false
+  stargazers_count: 35
+- name: golazon
+  full_name: sobstel/golazon
+  html_url: https://github.com/sobstel/golazon
+  description: football data mnmlist way
+  fork: false
+  stargazers_count: 25
+- name: react-native-animatable-unmountable
+  full_name: sobstel/react-native-animatable-unmountable
+  html_url: https://github.com/sobstel/react-native-animatable-unmountable
+  description: Declarative transitions and animations for React Native (with unmount
+    effect)
+  fork: false
+  stargazers_count: 11
+- name: hydropuzzle
+  full_name: sobstel/hydropuzzle
+  html_url: https://github.com/sobstel/hydropuzzle
+  description: Surreal tech adventure game for iOS and Android. Built with React Native.
+  fork: false
+  stargazers_count: 10
+- name: AsyncHTTP
+  full_name: sobstel/AsyncHTTP
+  html_url: https://github.com/sobstel/AsyncHTTP
+  description: PHP asynchronous non-blocking HTTP requests.
+  fork: false
+  stargazers_count: 4
+- name: calmbook
+  full_name: sobstel/calmbook
+  html_url: https://github.com/sobstel/calmbook
+  description: Facebook pages without distractions
+  fork: false
+  stargazers_count: 3
+- name: Execution
+  full_name: sobstel/Execution
+  html_url: https://github.com/sobstel/Execution
+  description: PHP class to handle unrecoverable fatal errors. (use Monolog instead)
+  fork: false
+  stargazers_count: 2
+- name: albicelestes
+  full_name: sobstel/albicelestes
+  html_url: https://github.com/sobstel/albicelestes
+  description: "¡Vamos Argentina! \U0001F1E6\U0001F1F7"
+  fork: false
+  stargazers_count: 1
+- name: scru.js
+  full_name: sobstel/scru.js
+  html_url: https://github.com/sobstel/scru.js
+  description: Lightweight execution dependency manager (lazy loading with dependencies)
+  fork: false
+  stargazers_count: 1
+- name: react-navigation-workshop-examples
+  full_name: sobstel/react-navigation-workshop-examples
+  html_url: https://github.com/sobstel/react-navigation-workshop-examples
+  description:
+  fork: true
+  stargazers_count: 0
+- name: bulk_insert
+  full_name: sobstel/bulk_insert
+  html_url: https://github.com/sobstel/bulk_insert
+  description: Efficient bulk inserts with ActiveRecord
+  fork: true
+  stargazers_count: 0
+- name: kampania
+  full_name: sobstel/kampania
+  html_url: https://github.com/sobstel/kampania
+  description: Built with Pascal in 1998
+  fork: false
+  stargazers_count: 0
+- name: pt-tests
+  full_name: sobstel/pt-tests
+  html_url: https://github.com/sobstel/pt-tests
+  description: Sample tests for PT
+  fork: true
+  stargazers_count: 0
+- name: remeda
+  full_name: sobstel/remeda
+  html_url: https://github.com/sobstel/remeda
+  description: A utility library for JavaScript and TypeScript.
+  fork: true
+  stargazers_count: 0
+- name: ruby_shopping_cart
+  full_name: sobstel/ruby_shopping_cart
+  html_url: https://github.com/sobstel/ruby_shopping_cart
+  description:
+  fork: false
+  stargazers_count: 0
+- name: may05
+  full_name: sobstel/may05
+  html_url: https://github.com/sobstel/may05
+  description:
+  fork: false
+  stargazers_count: 0
+- name: locals
+  full_name: sobstel/locals
+  html_url: https://github.com/sobstel/locals
+  description: Order form for local stores grounded by COVID-19
+  fork: false
+  stargazers_count: 0
+- name: jsondocr
+  full_name: sobstel/jsondocr
+  html_url: https://github.com/sobstel/jsondocr
+  description: DSL for documenting JSON structure
+  fork: false
+  stargazers_count: 0
+- name: jurathlon
+  full_name: sobstel/jurathlon
+  html_url: https://github.com/sobstel/jurathlon
+  description:
+  fork: false
+  stargazers_count: 0
+- name: dotfiles
+  full_name: sobstel/dotfiles
+  html_url: https://github.com/sobstel/dotfiles
+  description:
+  fork: false
+  stargazers_count: 0
+- name: elicorege
+  full_name: sobstel/elicorege
+  html_url: https://github.com/sobstel/elicorege
+  description: Extremely lightweight (PHP) Composer repository generator.
+  fork: false
+  stargazers_count: 0
+- name: react-native-typewriter
+  full_name: sobstel/react-native-typewriter
+  html_url: https://github.com/sobstel/react-native-typewriter
+  description: A React Native component for creating typing effects
+  fork: true
+  stargazers_count: 0
+- name: mblocks
+  full_name: sobstel/mblocks
+  html_url: https://github.com/sobstel/mblocks
+  description: Built with Pascal in 1999
+  fork: false
+  stargazers_count: 0
