@@ -7,7 +7,7 @@
 - [{{ repo.name }}]({{ repo.html_url }})
   {%- if repo.stargazers_count > 1 %} (★ {{ repo.stargazers_count }}){% endif -%}
   {%- if repo.description %} - {{ repo.description }}{% endif -%}
-  {%- if repo.language != 'PHP' %} {**{{ repo.language }}**}{% endif -%}
+  {%- if repo.language != 'PHP' %} **{{ repo.language }}**{% endif -%}
 {%- endfor %}
 - Go to Repositories tab to see the full list
 
@@ -21,7 +21,18 @@
 [{{ repo.name }}]({{ repo.html_url }}){% unless forloop.last %}, {% endunless %}
 {%- endfor %}
 
-⛰🏃🇦🇷⚽💻
+<a href="https://www.linkedin.com/in/sobstel/">
+  <img src="https://unpkg.com/simple-icons@latest/icons/linkedin.svg" width="24" height="24" />
+</a>
+<a href="https://stackoverflow.com/users/219272/sobstel">
+  <img src="https://unpkg.com/simple-icons@latest/icons/stackoverflow.svg" width="24" height="24" />
+</a>
+<a href="https://twitter.com/sobstel">
+  <img src="https://unpkg.com/simple-icons@latest/icons/twitter.svg" width="24" height="24" />
+</a>
+<a href="https://www.instagram.com/sobsteldev/">
+  <img src="https://unpkg.com/simple-icons@latest/icons/instagram.svg" width="24" height="24" />
+</a>
 
 <!--
 **sobstel/sobstel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
