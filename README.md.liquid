@@ -1,7 +1,7 @@
-Popular repositories:
+Top repositories:
 
 {% for repo in repos %}
-- [{{ repo.name }}]({{ repo.html_url }}) (★ {{ repo.stargazers_count }}) - {{ repo.description }} *&lt;{{ repo.language }}&gt;*
+- [{{ repo.name }}]({{ repo.html_url }}) (★ {{ repo.stargazers_count }}) - {{ repo.description }} **{{ repo.language }}**
 {%- endfor %}
 - Go to Repositories tab to see the full list
 
@@ -15,6 +15,7 @@ Current forks:
 [{{ repo.name }}]({{ repo.html_url }}){% unless forloop.last %}, {% endunless %}
 {%- endfor %}
 
+⛰🏃🇦🇷⚽💻
 
 <!--
 **sobstel/sobstel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

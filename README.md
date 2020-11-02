@@ -1,19 +1,19 @@
-Popular repositories:
+Top repositories:
 
 
-- [golazon](https://github.com/sobstel/golazon) (★ 25) - Football data mnmlist way. Built with Next.js and Ruby. *&lt;TypeScript&gt;*
-- [hydropuzzle](https://github.com/sobstel/hydropuzzle) (★ 10) - Surreal tech adventure game for iOS and Android. Built with React Native. *&lt;JavaScript&gt;*
-- [metaphore](https://github.com/sobstel/metaphore) (★ 96) - Cache slam defense using a semaphore to prevent dogpile effect. *&lt;PHP&gt;*
-- [sequent](https://github.com/sobstel/sequent) (★ 71) - Short-term memory training game (mobile). Built with React Native and Redux. *&lt;JavaScript&gt;*
-- [sesshin](https://github.com/sobstel/sesshin) (★ 64) - PHP secure advanced session manager. *&lt;PHP&gt;*
-- [react-native-animatable-unmountable](https://github.com/sobstel/react-native-animatable-unmountable) (★ 11) - Declarative transitions and animations for React Native (with unmount effect). *&lt;JavaScript&gt;*
-- [jsonp.js](https://github.com/sobstel/jsonp.js) (★ 35) - Lightweight JSONP library for cross-domain ajax calls. *&lt;JavaScript&gt;*
-- [calmbook](https://github.com/sobstel/calmbook) (★ 3) - Facebook pages without distractions *&lt;TypeScript&gt;*
-- [albicelestes](https://github.com/sobstel/albicelestes) (★ 1) - ¡Vamos Argentina! 🇦🇷 *&lt;TypeScript&gt;*
-- [locals](https://github.com/sobstel/locals) (★ 1) - Order form for local stores grounded by COVID-19 *&lt;TypeScript&gt;*
-- [voltpuzzle](https://github.com/sobstel/voltpuzzle) (★ 1) - Sequel to Hydropuzzle. Built with React Native and Expo. (unfinished :/) *&lt;JavaScript&gt;*
-- [jsondocr](https://github.com/sobstel/jsondocr) (★ 1) - DSL for documenting JSON structure *&lt;Ruby&gt;*
-- [scru.js](https://github.com/sobstel/scru.js) (★ 1) - Lightweight execution dependency manager (lazy loading with dependencies) *&lt;JavaScript&gt;*
+- [golazon](https://github.com/sobstel/golazon) (★ 25) - Football data mnmlist way. Built with Next.js and Ruby. **TypeScript**
+- [hydropuzzle](https://github.com/sobstel/hydropuzzle) (★ 10) - Surreal tech adventure game for iOS and Android. Built with React Native. **JavaScript**
+- [metaphore](https://github.com/sobstel/metaphore) (★ 96) - Cache slam defense using a semaphore to prevent dogpile effect. **PHP**
+- [sequent](https://github.com/sobstel/sequent) (★ 71) - Short-term memory training game (mobile). Built with React Native and Redux. **JavaScript**
+- [sesshin](https://github.com/sobstel/sesshin) (★ 64) - PHP secure advanced session manager. **PHP**
+- [react-native-animatable-unmountable](https://github.com/sobstel/react-native-animatable-unmountable) (★ 11) - Declarative transitions and animations for React Native (with unmount effect). **JavaScript**
+- [jsonp.js](https://github.com/sobstel/jsonp.js) (★ 35) - Lightweight JSONP library for cross-domain ajax calls. **JavaScript**
+- [calmbook](https://github.com/sobstel/calmbook) (★ 3) - Facebook pages without distractions **TypeScript**
+- [albicelestes](https://github.com/sobstel/albicelestes) (★ 1) - ¡Vamos Argentina! 🇦🇷 **TypeScript**
+- [locals](https://github.com/sobstel/locals) (★ 1) - Order form for local stores grounded by COVID-19 **TypeScript**
+- [voltpuzzle](https://github.com/sobstel/voltpuzzle) (★ 1) - Sequel to Hydropuzzle. Built with React Native and Expo. (unfinished :/) **JavaScript**
+- [jsondocr](https://github.com/sobstel/jsondocr) (★ 1) - DSL for documenting JSON structure **Ruby**
+- [scru.js](https://github.com/sobstel/scru.js) (★ 1) - Lightweight execution dependency manager (lazy loading with dependencies) **JavaScript**
 - Go to Repositories tab to see the full list
 
 Contributions:
@@ -22,6 +22,7 @@ Contributions:
 Current forks:
 [remeda](https://github.com/sobstel/remeda), [bulk_insert](https://github.com/sobstel/bulk_insert), [react-navigation-workshop-examples](https://github.com/sobstel/react-navigation-workshop-examples), [react-native-typewriter](https://github.com/sobstel/react-native-typewriter), [pt-tests](https://github.com/sobstel/pt-tests)
 
+⛰🏃🇦🇷⚽💻
 
 <!--
 **sobstel/sobstel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
