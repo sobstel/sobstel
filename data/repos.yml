@@ -30,7 +30,7 @@
 - name: calmbook
   full_name: sobstel/calmbook
   html_url: https://github.com/sobstel/calmbook
-  description: Facebook pages without distractions
+  description: Facebook pages without distractions.
   fork: false
   stargazers_count: 3
   language: TypeScript
@@ -58,7 +58,7 @@
 - name: locals
   full_name: sobstel/locals
   html_url: https://github.com/sobstel/locals
-  description: Order form for local stores grounded by COVID-19
+  description: Order form for local stores grounded by COVID-19.
   fork: false
   stargazers_count: 1
   language: TypeScript
@@ -187,7 +187,7 @@
 - name: jsondocr
   full_name: sobstel/jsondocr
   html_url: https://github.com/sobstel/jsondocr
-  description: DSL for documenting JSON structure
+  description: DSL for documenting JSON structure.
   fork: false
   stargazers_count: 1
   language: Ruby
@@ -222,7 +222,7 @@
 - name: scru.js
   full_name: sobstel/scru.js
   html_url: https://github.com/sobstel/scru.js
-  description: Lightweight execution dependency manager (lazy loading with dependencies)
+  description: Lightweight execution dependency manager (lazy loading with dependencies).
   fork: false
   stargazers_count: 1
   language: JavaScript

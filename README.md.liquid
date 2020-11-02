@@ -1,7 +1,14 @@
+# sobstel
+
+Current stack: **Ruby**, **React**, **React Native**
+
 Top repositories:
 
 {% for repo in repos %}
-- [{{ repo.name }}]({{ repo.html_url }}) (★ {{ repo.stargazers_count }}) - {{ repo.description }} **{{ repo.language }}**
+- [{{ repo.name }}]({{ repo.html_url }})
+  {%- if repo.stargazers_count > 1 %}(★ {{ repo.stargazers_count }}){% endif -%}
+  {%- if repo.description %}- {{ repo.description }}{% endif -%}
+  {%- if repo.language != 'PHP' %} {**{{ repo.language }}**}{% endif -%}
 {%- endfor %}
 - Go to Repositories tab to see the full list
 
@@ -23,7 +30,7 @@ Current forks:
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently leazrning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...

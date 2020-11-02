@@ -42,11 +42,11 @@ end
 
 desc 'Publish live'
 task :publish, :message do |_, args|
-  args.with_defaults message: Quotable.random.gsub(/[“”]/, '')
+  args.with_defaults message: Quotable.random.gsub(/[“”"]/, '')
   message = args[:message]
 
   task(:import_github_repos).execute
-  task(:import_github_contributions).execute
+  # task(:import_github_contributions).execute
   task(:generate_readme).execute
 
   sh 'git add --all .'
