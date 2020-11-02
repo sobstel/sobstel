@@ -26,32 +26,6 @@
 [remeda](https://github.com/sobstel/remeda), [bulk_insert](https://github.com/sobstel/bulk_insert), [react-navigation-workshop-examples](https://github.com/sobstel/react-navigation-workshop-examples), [react-native-typewriter](https://github.com/sobstel/react-native-typewriter), [pt-tests](https://github.com/sobstel/pt-tests)
 
 [<img src="https://unpkg.com/simple-icons@latest/icons/linkedin.svg" width="24" height="24" />](https://www.linkedin.com/in/sobstel/)
-
-
-
-
-</a>
-<a href="https://stackoverflow.com/users/219272/sobstel">
-  <img src="https://unpkg.com/simple-icons@latest/icons/stackoverflow.svg" width="24" height="24" />
-</a>
-<a href="https://twitter.com/sobstel">
-  <img src="https://unpkg.com/simple-icons@latest/icons/twitter.svg" width="24" height="24" />
-</a>
-<a href="https://www.instagram.com/sobsteldev/">
-  <img src="https://unpkg.com/simple-icons@latest/icons/instagram.svg" width="24" height="24" />
-</a>
-
-<!--
-**sobstel/sobstel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently leazrning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[<img src="https://unpkg.com/simple-icons@latest/icons/stackoverflow.svg" width="24" height="24" />](https://stackoverflow.com/users/219272/sobstel)
+[<img src="https://unpkg.com/simple-icons@latest/icons/twitter.svg" width="24" height="24" />](https://twitter.com/sobstel)
+[<img src="https://unpkg.com/simple-icons@latest/icons/instagram.svg" width="24" height="24" />](https://www.instagram.com/sobsteldev/)
