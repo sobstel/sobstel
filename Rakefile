@@ -56,6 +56,7 @@ end
 desc 'Generate README'
 task :generate_readme do
   repos = load_data('repos')
+  contribs = load_data('contribs')
 
   my_repos, forks = repos.partition { |repo| !repo['fork'] }
 
@@ -63,8 +64,6 @@ task :generate_readme do
     .select { |repo| repo['stargazers_count'] > 0 }
     .reject { |repo| EXCLUDED_REPOS.include?(repo['name']) }
     .partition { |repo| repo['stargazers_count'] >= 9 }
-
-  contribs = load_data('contribs').map { |contrib| contrib.split('/').last }
 
   template = Liquid::Template.parse(File.read('README.md.liquid'))
   content = template.render(
