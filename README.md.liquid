@@ -1,10 +1,7 @@
 Popular repositories:
 
-{% for repo in popular_repos %}
+{% for repo in repos %}
 - [{{ repo.name }}]({{ repo.html_url }}) (★ {{ repo.stargazers_count }}) - {{ repo.description }}
-{%- endfor -%}
-{% for repo in other_repos %}
-- [{{ repo.name }}]({{ repo.html_url }}) - {{ repo.description }}
 {%- endfor %}
 - Go to Repositories tab to see the full list
 

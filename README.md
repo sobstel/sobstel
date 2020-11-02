@@ -8,16 +8,16 @@ Popular repositories:
 - [sesshin](https://github.com/sobstel/sesshin) (★ 64) - PHP secure advanced session manager.
 - [react-native-animatable-unmountable](https://github.com/sobstel/react-native-animatable-unmountable) (★ 11) - Declarative transitions and animations for React Native (with unmount effect).
 - [jsonp.js](https://github.com/sobstel/jsonp.js) (★ 35) - Lightweight JSONP library for cross-domain ajax calls.
-- [calmbook](https://github.com/sobstel/calmbook) - Facebook pages without distractions
-- [albicelestes](https://github.com/sobstel/albicelestes) - ¡Vamos Argentina! 🇦🇷
-- [locals](https://github.com/sobstel/locals) - Order form for local stores grounded by COVID-19
-- [voltpuzzle](https://github.com/sobstel/voltpuzzle) - Sequel to Hydropuzzle. Built with React Native and Expo. (unfinished :/)
-- [jsondocr](https://github.com/sobstel/jsondocr) - DSL for documenting JSON structure
-- [scru.js](https://github.com/sobstel/scru.js) - Lightweight execution dependency manager (lazy loading with dependencies)
+- [calmbook](https://github.com/sobstel/calmbook) (★ 3) - Facebook pages without distractions
+- [albicelestes](https://github.com/sobstel/albicelestes) (★ 1) - ¡Vamos Argentina! 🇦🇷
+- [locals](https://github.com/sobstel/locals) (★ 1) - Order form for local stores grounded by COVID-19
+- [voltpuzzle](https://github.com/sobstel/voltpuzzle) (★ 1) - Sequel to Hydropuzzle. Built with React Native and Expo. (unfinished :/)
+- [jsondocr](https://github.com/sobstel/jsondocr) (★ 1) - DSL for documenting JSON structure
+- [scru.js](https://github.com/sobstel/scru.js) (★ 1) - Lightweight execution dependency manager (lazy loading with dependencies)
 - Go to Repositories tab to see the full list
 
 Contributions:
-[remeda/remeda](https://github.com/remeda/remeda/commits?author=sobstel), [jamis/bulk_insert](https://github.com/jamis/bulk_insert/commits?author=sobstel), [fastly/heroku-fastly](https://github.com/fastly/heroku-fastly/commits?author=sobstel), [TaylorBriggs/react-native-typewriter](https://github.com/TaylorBriggs/react-native-typewriter/commits?author=sobstel), [Nabobil/segment-analytics-react-native-core](https://github.com/Nabobil/segment-analytics-react-native-core/commits?author=sobstel), [djl/homebrew-apache2](https://github.com/djl/homebrew-apache2/commits?author=sobstel), [maciejsmolinski/decoupled.js](https://github.com/maciejsmolinski/decoupled.js/commits?author=sobstel), [Seldaek/monolog](https://github.com/Seldaek/monolog/commits?author=sobstel), [auraphp/Aura.Marshal](https://github.com/auraphp/Aura.Marshal/commits?author=sobstel), [beberlei/DoctrineExtensions](https://github.com/beberlei/DoctrineExtensions/commits?author=sobstel), [doctrine/common](https://github.com/doctrine/common/commits?author=sobstel), [gsmlabs/LSDCache](https://github.com/gsmlabs/LSDCache/commits?author=sobstel), [TheSpyder/SyncedSideBar](https://github.com/TheSpyder/SyncedSideBar/commits?author=sobstel)
+[remeda](https://github.com/remeda/commits?author=sobstel), [bulk_insert](https://github.com/bulk_insert/commits?author=sobstel), [heroku-fastly](https://github.com/heroku-fastly/commits?author=sobstel), [react-native-typewriter](https://github.com/react-native-typewriter/commits?author=sobstel), [segment-analytics-react-native-core](https://github.com/segment-analytics-react-native-core/commits?author=sobstel), [homebrew-apache2](https://github.com/homebrew-apache2/commits?author=sobstel), [decoupled.js](https://github.com/decoupled.js/commits?author=sobstel), [monolog](https://github.com/monolog/commits?author=sobstel), [Aura.Marshal](https://github.com/Aura.Marshal/commits?author=sobstel), [DoctrineExtensions](https://github.com/DoctrineExtensions/commits?author=sobstel), [common](https://github.com/common/commits?author=sobstel), [LSDCache](https://github.com/LSDCache/commits?author=sobstel), [SyncedSideBar](https://github.com/SyncedSideBar/commits?author=sobstel)
 
 Current forks:
 [remeda](https://github.com/sobstel/remeda), [bulk_insert](https://github.com/sobstel/bulk_insert), [react-navigation-workshop-examples](https://github.com/sobstel/react-navigation-workshop-examples), [react-native-typewriter](https://github.com/sobstel/react-native-typewriter), [pt-tests](https://github.com/sobstel/pt-tests)

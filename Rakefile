@@ -66,12 +66,11 @@ task :generate_readme do
     .reject { |repo| EXCLUDED_REPOS.include?(repo['name']) }
     .partition { |repo| repo['stargazers_count'] >= 9 }
 
-  contribs = load_data('contribs')
+  contribs = load_data('contribs').map { |contrib| contrib.split('/').last }
 
   template = Liquid::Template.parse(File.read('README.md.liquid'))
   content = template.render(
-    'popular_repos' => popular_repos,
-    'other_repos' => other_repos,
+    'repos' => popular_repos + other_repos,
     'forks' => forks,
     'contribs' => contribs,
   )
