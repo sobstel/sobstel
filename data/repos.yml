@@ -1,7 +1,7 @@
 ---
-- name: sobstel
-  full_name: sobstel/sobstel
-  html_url: https://github.com/sobstel/sobstel
+- name: sobstel.github.com
+  full_name: sobstel/sobstel.github.com
+  html_url: https://github.com/sobstel/sobstel.github.com
   description:
   fork: false
   stargazers_count: 0
@@ -11,9 +11,9 @@
   description: Football data mnmlist way. Built with Next.js and Ruby.
   fork: false
   stargazers_count: 25
-- name: sobstel.github.com
-  full_name: sobstel/sobstel.github.com
-  html_url: https://github.com/sobstel/sobstel.github.com
+- name: sobstel
+  full_name: sobstel/sobstel
+  html_url: https://github.com/sobstel/sobstel
   description:
   fork: false
   stargazers_count: 0

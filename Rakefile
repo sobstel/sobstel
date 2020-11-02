@@ -10,6 +10,9 @@ require 'quotable'
 require 'liquid'
 require 'dotenv/load'
 
+ALLOWED_REPO_ATTRS = %w[name full_name description html_url fork languages stargazers_count]
+EXCLUDED_REPOS = %w[AsyncHTTP Execution]
+
 def save_data(name, object)
   file = "data/#{name}.yml"
   File.write(file, object.to_yaml)
@@ -30,12 +33,10 @@ def github_fetch(url)
 end
 
 def fetch_repos(url)
-  allowed_repo_attrs = %w[name full_name description html_url fork languages stargazers_count]
-
   JSON.parse(github_fetch(url))
       .reject { |repo| repo['archived'] }
       .sort_by { |repo| repo['pushed_at'] }
-      .collect { |repo| repo.select { |key, _| allowed_repo_attrs.include? key } }
+      .collect { |repo| repo.select { |key, _| ALLOWED_REPO_ATTRS.include? key } }
       .reverse
 end
 
@@ -57,10 +58,14 @@ end
 desc 'Generate README'
 task :generate_readme do
   repos = load_data('repos')
-  popular_repos, other_repos = repos.filter { |repo| repo['stargazers_count'] > 0 }.partition do |repo|
-    next repo['stargazers_count'] >= 9
-  end
-  forks = repos.filter { |repo| repo['fork'] }
+
+  my_repos, forks = repos.partition { |repo| !repo['fork'] }
+
+  popular_repos, other_repos = my_repos
+    .select { |repo| repo['stargazers_count'] > 0 }
+    .reject { |repo| EXCLUDED_REPOS.include?(repo['name']) }
+    .partition { |repo| repo['stargazers_count'] >= 9 }
+
   contribs = load_data('contribs')
 
   template = Liquid::Template.parse(File.read('README.md.liquid'))
@@ -104,7 +109,7 @@ task :import_github_contributions do
   end
 
   github_contributions.uniq!
-  github_contributions.reject! { |repo| repo.start_with?('sobstel', 'golazon') }
+  # github_contributions.reject! { |repo| repo.start_with?('sobstel', 'golazon') }
   github_contributions.reject! { |repo| repo.include?('awesome') }
 
   save_data('contribs', github_contributions)
