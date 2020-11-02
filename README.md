@@ -26,7 +26,7 @@
 [remeda](https://github.com/sobstel/remeda), [bulk_insert](https://github.com/sobstel/bulk_insert), [react-navigation-workshop-examples](https://github.com/sobstel/react-navigation-workshop-examples), [react-native-typewriter](https://github.com/sobstel/react-native-typewriter), [pt-tests](https://github.com/sobstel/pt-tests)
 
 <a href="https://www.linkedin.com/in/sobstel/">
-  <img src="https://unpkg.com/simple-icons@latest/icons/linkedin.svg" width="24" height="24" />
+  ![LinkedIn](https://unpkg.com/simple-icons@latest/icons/linkedin.svg =24x)
 </a>
 <a href="https://stackoverflow.com/users/219272/sobstel">
   <img src="https://unpkg.com/simple-icons@latest/icons/stackoverflow.svg" width="24" height="24" />
