@@ -10,7 +10,7 @@ require 'quotable'
 require 'liquid'
 require 'dotenv/load'
 
-ALLOWED_REPO_ATTRS = %w[name full_name description html_url fork languages stargazers_count]
+ALLOWED_REPO_ATTRS = %w[name full_name description html_url fork language stargazers_count]
 EXCLUDED_REPOS = %w[AsyncHTTP Execution]
 
 def save_data(name, object)
