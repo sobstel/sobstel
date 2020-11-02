@@ -10,6 +10,9 @@ require 'quotable'
 require 'liquid'
 require 'dotenv/load'
 
+GITHUB_USER = 'sobstel'
+GITHUB_ORGS = %w[golazon]
+GITHUB_PAT = ENV['GITHUB_PAT']
 ALLOWED_REPO_ATTRS = %w[name full_name description html_url fork language stargazers_count]
 EXCLUDED_REPOS = %w[AsyncHTTP Execution]
 
@@ -25,9 +28,10 @@ def load_data(name)
 end
 
 def github_fetch(url)
+  puts "fetch #{url}"
   options = {
-    http_basic_authentication: ['sobstel', ENV['GITHUB_PAT']],
-    ssl_verify_mode: OpenSSL::SSL::VERIFY_NONE
+    # http_basic_authentication: [GITHUB_USER, GITHUB_PAT],
+    # ssl_verify_mode: OpenSSL::SSL::VERIFY_NONE
   }
   URI.open(url, options).read
 end
@@ -81,9 +85,16 @@ end
 desc 'Import GitHub repos'
 task :import_github_repos do
   repos = (1..2).flat_map do |page|
-    url = format('https://api.github.com/users/%s/repos?sort=pushed&page=%s', 'sobstel', page)
+    url = format('https://api.github.com/users/%s/repos?page=%s', 'sobstel', page)
     fetch_repos(url)
   end
+
+  repos << GITHUB_ORGS.flat_map do |org|
+    url = format('https://api.github.com/orgs/%s/repos', org)
+    fetch_repos(url)
+  end
+  repos.flatten!
+
   save_data('repos', repos)
 end
 

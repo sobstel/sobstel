@@ -1,18 +1,4 @@
 ---
-- name: sobstel
-  full_name: sobstel/sobstel
-  html_url: https://github.com/sobstel/sobstel
-  description:
-  fork: false
-  stargazers_count: 0
-  language: Ruby
-- name: sobstel.github.com
-  full_name: sobstel/sobstel.github.com
-  html_url: https://github.com/sobstel/sobstel.github.com
-  description:
-  fork: false
-  stargazers_count: 0
-  language: HTML
 - name: golazon
   full_name: sobstel/golazon
   html_url: https://github.com/sobstel/golazon
@@ -83,14 +69,6 @@
   fork: true
   stargazers_count: 0
   language:
-- name: voltpuzzle
-  full_name: sobstel/voltpuzzle
-  html_url: https://github.com/sobstel/voltpuzzle
-  description: Sequel to Hydropuzzle. Built with React Native and Expo. (unfinished
-    :/)
-  fork: false
-  stargazers_count: 1
-  language: JavaScript
 - name: metaphore
   full_name: sobstel/metaphore
   html_url: https://github.com/sobstel/metaphore
@@ -106,13 +84,6 @@
   fork: false
   stargazers_count: 71
   language: JavaScript
-- name: sesshin
-  full_name: sobstel/sesshin
-  html_url: https://github.com/sobstel/sesshin
-  description: PHP secure advanced session manager.
-  fork: false
-  stargazers_count: 64
-  language: PHP
 - name: bulk_insert
   full_name: sobstel/bulk_insert
   html_url: https://github.com/sobstel/bulk_insert
@@ -142,13 +113,6 @@
   fork: true
   stargazers_count: 0
   language: JavaScript
-- name: www.hydropuzzle.com
-  full_name: sobstel/www.hydropuzzle.com
-  html_url: https://github.com/sobstel/www.hydropuzzle.com
-  description:
-  fork: false
-  stargazers_count: 0
-  language: HTML
 - name: mblocks
   full_name: sobstel/mblocks
   html_url: https://github.com/sobstel/mblocks
@@ -177,13 +141,6 @@
   fork: true
   stargazers_count: 0
   language: JavaScript
-- name: xentry
-  full_name: sobstel/xentry
-  html_url: https://github.com/sobstel/xentry
-  description: 'Rails4 vs Laravel5 playground '
-  fork: false
-  stargazers_count: 0
-  language: PHP
 - name: jsondocr
   full_name: sobstel/jsondocr
   html_url: https://github.com/sobstel/jsondocr
@@ -205,13 +162,6 @@
   fork: false
   stargazers_count: 0
   language: PHP
-- name: theraventhatrefusedtosing
-  full_name: sobstel/theraventhatrefusedtosing
-  html_url: https://github.com/sobstel/theraventhatrefusedtosing
-  description:
-  fork: false
-  stargazers_count: 0
-  language:
 - name: Execution
   full_name: sobstel/Execution
   html_url: https://github.com/sobstel/Execution
@@ -226,3 +176,53 @@
   fork: false
   stargazers_count: 1
   language: JavaScript
+- name: sobstel
+  full_name: sobstel/sobstel
+  html_url: https://github.com/sobstel/sobstel
+  description:
+  fork: false
+  stargazers_count: 0
+  language: Ruby
+- name: sobstel.github.com
+  full_name: sobstel/sobstel.github.com
+  html_url: https://github.com/sobstel/sobstel.github.com
+  description:
+  fork: false
+  stargazers_count: 0
+  language: HTML
+- name: voltpuzzle
+  full_name: sobstel/voltpuzzle
+  html_url: https://github.com/sobstel/voltpuzzle
+  description: Sequel to Hydropuzzle. Built with React Native and Expo. (unfinished
+    :/)
+  fork: false
+  stargazers_count: 1
+  language: JavaScript
+- name: sesshin
+  full_name: sobstel/sesshin
+  html_url: https://github.com/sobstel/sesshin
+  description: PHP secure advanced session manager.
+  fork: false
+  stargazers_count: 64
+  language: PHP
+- name: www.hydropuzzle.com
+  full_name: sobstel/www.hydropuzzle.com
+  html_url: https://github.com/sobstel/www.hydropuzzle.com
+  description:
+  fork: false
+  stargazers_count: 0
+  language: HTML
+- name: xentry
+  full_name: sobstel/xentry
+  html_url: https://github.com/sobstel/xentry
+  description: 'Rails4 vs Laravel5 playground '
+  fork: false
+  stargazers_count: 0
+  language: PHP
+- name: theraventhatrefusedtosing
+  full_name: sobstel/theraventhatrefusedtosing
+  html_url: https://github.com/sobstel/theraventhatrefusedtosing
+  description:
+  fork: false
+  stargazers_count: 0
+  language:
