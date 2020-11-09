@@ -30,8 +30,8 @@ def github_fetch(url)
   URI.open(url).read
 end
 
-def fetch_repos(url)
-  JSON.parse(github_fetch(url))
+def parse_repos(content)
+  JSON.parse(content)
       .reject { |repo| repo['archived'] }
       .sort_by { |repo| repo['pushed_at'] }
       .collect { |repo| repo.select { |key, _| ALLOWED_REPO_ATTRS.include? key } }
@@ -79,7 +79,7 @@ desc 'Import GitHub repos'
 task :import_github_repos do
   repos = (1..2).flat_map do |page|
     url = format('https://api.github.com/users/%s/repos?page=%s', GITHUB_USER, page)
-    fetch_repos(url)
+    parse_repos(github_fetch(url))
   end
 
   save_data('repos', repos)
