@@ -6,19 +6,19 @@
   fork: false
   stargazers_count: 1
   language: TypeScript
-- name: calmbook
-  full_name: sobstel/calmbook
-  html_url: https://github.com/sobstel/calmbook
-  description: Facebook pages without distractions.
-  fork: false
-  stargazers_count: 3
-  language: TypeScript
 - name: golazon
   full_name: sobstel/golazon
   html_url: https://github.com/sobstel/golazon
   description: Football data mnmlist way. Built with Next.js and Ruby.
   fork: false
   stargazers_count: 25
+  language: TypeScript
+- name: calmbook
+  full_name: sobstel/calmbook
+  html_url: https://github.com/sobstel/calmbook
+  description: Facebook pages without distractions.
+  fork: false
+  stargazers_count: 3
   language: TypeScript
 - name: dotfiles
   full_name: sobstel/dotfiles
@@ -97,7 +97,7 @@
   description: Declarative transitions and animations for React Native (with unmount
     effect).
   fork: false
-  stargazers_count: 11
+  stargazers_count: 12
   language: JavaScript
 - name: react-navigation-workshop-examples
   full_name: sobstel/react-navigation-workshop-examples
@@ -203,7 +203,7 @@
   html_url: https://github.com/sobstel/sesshin
   description: PHP secure advanced session manager.
   fork: false
-  stargazers_count: 64
+  stargazers_count: 65
   language: PHP
 - name: www.hydropuzzle.com
   full_name: sobstel/www.hydropuzzle.com
