@@ -6,6 +6,13 @@
   fork: false
   stargazers_count: 1
   language: TypeScript
+- name: hydropuzzle
+  full_name: sobstel/hydropuzzle
+  html_url: https://github.com/sobstel/hydropuzzle
+  description: Surreal tech adventure game for iOS and Android. Built with React Native.
+  fork: false
+  stargazers_count: 11
+  language: JavaScript
 - name: golazon
   full_name: sobstel/golazon
   html_url: https://github.com/sobstel/golazon
@@ -33,13 +40,6 @@
   description:
   fork: false
   stargazers_count: 0
-  language: JavaScript
-- name: hydropuzzle
-  full_name: sobstel/hydropuzzle
-  html_url: https://github.com/sobstel/hydropuzzle
-  description: Surreal tech adventure game for iOS and Android. Built with React Native.
-  fork: false
-  stargazers_count: 11
   language: JavaScript
 - name: locals
   full_name: sobstel/locals
