@@ -6,19 +6,12 @@
   fork: false
   stargazers_count: 1
   language: TypeScript
-- name: hydropuzzle
-  full_name: sobstel/hydropuzzle
-  html_url: https://github.com/sobstel/hydropuzzle
-  description: Surreal tech adventure game for iOS and Android. Built with React Native.
-  fork: false
-  stargazers_count: 11
-  language: JavaScript
 - name: golazon
   full_name: sobstel/golazon
   html_url: https://github.com/sobstel/golazon
   description: Football data mnmlist way. Built with Next.js and Ruby.
   fork: false
-  stargazers_count: 27
+  stargazers_count: 28
   language: TypeScript
 - name: calmbook
   full_name: sobstel/calmbook
@@ -27,6 +20,13 @@
   fork: false
   stargazers_count: 3
   language: TypeScript
+- name: hydropuzzle
+  full_name: sobstel/hydropuzzle
+  html_url: https://github.com/sobstel/hydropuzzle
+  description: Surreal tech adventure game for iOS and Android. Built with React Native.
+  fork: false
+  stargazers_count: 11
+  language: JavaScript
 - name: dotfiles
   full_name: sobstel/dotfiles
   html_url: https://github.com/sobstel/dotfiles
@@ -82,7 +82,7 @@
   description: Short-term memory training game (mobile). Built with React Native and
     Redux.
   fork: false
-  stargazers_count: 72
+  stargazers_count: 74
   language: JavaScript
 - name: bulk_insert
   full_name: sobstel/bulk_insert
@@ -97,7 +97,7 @@
   description: Declarative transitions and animations for React Native (with unmount
     effect).
   fork: false
-  stargazers_count: 12
+  stargazers_count: 14
   language: JavaScript
 - name: react-navigation-workshop-examples
   full_name: sobstel/react-navigation-workshop-examples
@@ -176,13 +176,13 @@
   fork: false
   stargazers_count: 1
   language: JavaScript
-- name: sobstel.github.com
-  full_name: sobstel/sobstel.github.com
-  html_url: https://github.com/sobstel/sobstel.github.com
+- name: snaptrac
+  full_name: sobstel/snaptrac
+  html_url: https://github.com/sobstel/snaptrac
   description:
   fork: false
   stargazers_count: 0
-  language: HTML
+  language: TypeScript
 - name: sobstel
   full_name: sobstel/sobstel
   html_url: https://github.com/sobstel/sobstel
@@ -190,6 +190,13 @@
   fork: false
   stargazers_count: 0
   language: Ruby
+- name: sobstel.github.com
+  full_name: sobstel/sobstel.github.com
+  html_url: https://github.com/sobstel/sobstel.github.com
+  description:
+  fork: false
+  stargazers_count: 0
+  language: HTML
 - name: voltpuzzle
   full_name: sobstel/voltpuzzle
   html_url: https://github.com/sobstel/voltpuzzle
