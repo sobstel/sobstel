@@ -82,7 +82,7 @@
   description: Short-term memory training game (mobile). Built with React Native and
     Redux.
   fork: false
-  stargazers_count: 74
+  stargazers_count: 73
   language: JavaScript
 - name: bulk_insert
   full_name: sobstel/bulk_insert
@@ -176,20 +176,6 @@
   fork: false
   stargazers_count: 1
   language: JavaScript
-- name: snaptrac
-  full_name: sobstel/snaptrac
-  html_url: https://github.com/sobstel/snaptrac
-  description:
-  fork: false
-  stargazers_count: 0
-  language: TypeScript
-- name: sobstel
-  full_name: sobstel/sobstel
-  html_url: https://github.com/sobstel/sobstel
-  description:
-  fork: false
-  stargazers_count: 0
-  language: Ruby
 - name: sobstel.github.com
   full_name: sobstel/sobstel.github.com
   html_url: https://github.com/sobstel/sobstel.github.com
@@ -197,6 +183,13 @@
   fork: false
   stargazers_count: 0
   language: HTML
+- name: sobstel
+  full_name: sobstel/sobstel
+  html_url: https://github.com/sobstel/sobstel
+  description:
+  fork: false
+  stargazers_count: 0
+  language: Ruby
 - name: voltpuzzle
   full_name: sobstel/voltpuzzle
   html_url: https://github.com/sobstel/voltpuzzle
