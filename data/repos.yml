@@ -1,4 +1,11 @@
 ---
+- name: openapi-clientlib-js
+  full_name: sobstel/openapi-clientlib-js
+  html_url: https://github.com/sobstel/openapi-clientlib-js
+  description: OpenAPI Client Library
+  fork: true
+  stargazers_count: 0
+  language: JavaScript
 - name: albicelestes
   full_name: sobstel/albicelestes
   html_url: https://github.com/sobstel/albicelestes
@@ -6,19 +13,19 @@
   fork: false
   stargazers_count: 1
   language: TypeScript
-- name: golazon
-  full_name: sobstel/golazon
-  html_url: https://github.com/sobstel/golazon
-  description: Football data mnmlist way. Built with Next.js and Ruby.
-  fork: false
-  stargazers_count: 28
-  language: TypeScript
 - name: calmbook
   full_name: sobstel/calmbook
   html_url: https://github.com/sobstel/calmbook
   description: Facebook pages without distractions.
   fork: false
   stargazers_count: 3
+  language: TypeScript
+- name: golazon
+  full_name: sobstel/golazon
+  html_url: https://github.com/sobstel/golazon
+  description: Football data mnmlist way. Built with Next.js and Ruby.
+  fork: false
+  stargazers_count: 28
   language: TypeScript
 - name: hydropuzzle
   full_name: sobstel/hydropuzzle
@@ -76,14 +83,6 @@
   fork: false
   stargazers_count: 96
   language: PHP
-- name: sequent
-  full_name: sobstel/sequent
-  html_url: https://github.com/sobstel/sequent
-  description: Short-term memory training game (mobile). Built with React Native and
-    Redux.
-  fork: false
-  stargazers_count: 73
-  language: JavaScript
 - name: bulk_insert
   full_name: sobstel/bulk_insert
   html_url: https://github.com/sobstel/bulk_insert
@@ -97,7 +96,7 @@
   description: Declarative transitions and animations for React Native (with unmount
     effect).
   fork: false
-  stargazers_count: 14
+  stargazers_count: 15
   language: JavaScript
 - name: react-navigation-workshop-examples
   full_name: sobstel/react-navigation-workshop-examples
@@ -197,6 +196,14 @@
     :/)
   fork: false
   stargazers_count: 1
+  language: JavaScript
+- name: sequent
+  full_name: sobstel/sequent
+  html_url: https://github.com/sobstel/sequent
+  description: Short-term memory training game (mobile). Built with React Native and
+    Redux.
+  fork: false
+  stargazers_count: 74
   language: JavaScript
 - name: sesshin
   full_name: sobstel/sesshin
