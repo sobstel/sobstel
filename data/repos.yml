@@ -1,11 +1,4 @@
 ---
-- name: openapi-clientlib-js
-  full_name: sobstel/openapi-clientlib-js
-  html_url: https://github.com/sobstel/openapi-clientlib-js
-  description: OpenAPI Client Library
-  fork: true
-  stargazers_count: 0
-  language: JavaScript
 - name: albicelestes
   full_name: sobstel/albicelestes
   html_url: https://github.com/sobstel/albicelestes
@@ -13,6 +6,21 @@
   fork: false
   stargazers_count: 1
   language: TypeScript
+- name: jurathlon
+  full_name: sobstel/jurathlon
+  html_url: https://github.com/sobstel/jurathlon
+  description:
+  fork: false
+  stargazers_count: 0
+  language: JavaScript
+- name: react-native-animatable-unmountable
+  full_name: sobstel/react-native-animatable-unmountable
+  html_url: https://github.com/sobstel/react-native-animatable-unmountable
+  description: Declarative transitions and animations for React Native (with unmount
+    effect).
+  fork: false
+  stargazers_count: 15
+  language: JavaScript
 - name: calmbook
   full_name: sobstel/calmbook
   html_url: https://github.com/sobstel/calmbook
@@ -27,6 +35,13 @@
   fork: false
   stargazers_count: 28
   language: TypeScript
+- name: openapi-clientlib-js
+  full_name: sobstel/openapi-clientlib-js
+  html_url: https://github.com/sobstel/openapi-clientlib-js
+  description: OpenAPI Client Library
+  fork: true
+  stargazers_count: 0
+  language: JavaScript
 - name: hydropuzzle
   full_name: sobstel/hydropuzzle
   html_url: https://github.com/sobstel/hydropuzzle
@@ -41,13 +56,6 @@
   fork: false
   stargazers_count: 0
   language: Vim script
-- name: jurathlon
-  full_name: sobstel/jurathlon
-  html_url: https://github.com/sobstel/jurathlon
-  description:
-  fork: false
-  stargazers_count: 0
-  language: JavaScript
 - name: locals
   full_name: sobstel/locals
   html_url: https://github.com/sobstel/locals
@@ -81,7 +89,7 @@
   html_url: https://github.com/sobstel/metaphore
   description: Cache slam defense using a semaphore to prevent dogpile effect.
   fork: false
-  stargazers_count: 96
+  stargazers_count: 95
   language: PHP
 - name: bulk_insert
   full_name: sobstel/bulk_insert
@@ -90,14 +98,6 @@
   fork: true
   stargazers_count: 0
   language: Ruby
-- name: react-native-animatable-unmountable
-  full_name: sobstel/react-native-animatable-unmountable
-  html_url: https://github.com/sobstel/react-native-animatable-unmountable
-  description: Declarative transitions and animations for React Native (with unmount
-    effect).
-  fork: false
-  stargazers_count: 15
-  language: JavaScript
 - name: react-navigation-workshop-examples
   full_name: sobstel/react-navigation-workshop-examples
   html_url: https://github.com/sobstel/react-navigation-workshop-examples
@@ -203,7 +203,7 @@
   description: Short-term memory training game (mobile). Built with React Native and
     Redux.
   fork: false
-  stargazers_count: 74
+  stargazers_count: 76
   language: JavaScript
 - name: sesshin
   full_name: sobstel/sesshin
