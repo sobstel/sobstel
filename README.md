@@ -1,16 +1,16 @@
 # sobstel
 
-**Current stack**: Ruby, React, TypeScript
+**Current stack**: Ruby, React, React Native, TypeScript
 
 **Top repositories:**
 
-- [react-native-animatable-unmountable](https://github.com/sobstel/react-native-animatable-unmountable) (★ 15) - Declarative transitions and animations for React Native (with unmount effect). **JavaScript**
 - [golazon](https://github.com/sobstel/golazon) (★ 28) - Football data mnmlist way. Built with Next.js and Ruby. **TypeScript**
+- [react-native-animatable-unmountable](https://github.com/sobstel/react-native-animatable-unmountable) (★ 15) - Declarative transitions and animations for React Native (with unmount effect). **JavaScript**
 - [hydropuzzle](https://github.com/sobstel/hydropuzzle) (★ 11) - Surreal tech adventure game for iOS and Android. Built with React Native. **JavaScript**
-- [metaphore](https://github.com/sobstel/metaphore) (★ 95) - Cache slam defense using a semaphore to prevent dogpile effect.
+- [metaphore](https://github.com/sobstel/metaphore) (★ 96) - Cache slam defense using a semaphore to prevent dogpile effect.
 - [jsonp.js](https://github.com/sobstel/jsonp.js) (★ 35) - Lightweight JSONP library for cross-domain ajax calls. **JavaScript**
 - [sequent](https://github.com/sobstel/sequent) (★ 76) - Short-term memory training game (mobile). Built with React Native and Redux. **JavaScript**
-- [sesshin](https://github.com/sobstel/sesshin) (★ 64) - PHP secure advanced session manager.
+- [sesshin](https://github.com/sobstel/sesshin) (★ 65) - PHP secure advanced session manager.
 - [albicelestes](https://github.com/sobstel/albicelestes) - ¡Vamos Argentina! 🇦🇷 **TypeScript**
 - [calmbook](https://github.com/sobstel/calmbook) (★ 3) - Facebook pages without distractions. **TypeScript**
 - [locals](https://github.com/sobstel/locals) - Order form for local stores grounded by COVID-19. **TypeScript**
