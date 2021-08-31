@@ -2,12 +2,6 @@
 
 **Current stack**: React, TypeScript, Ruby
 
-**Top projects**
-
-- [Hydropuzzle](https://www.sobstel.org/hydropuzzle/) - iOS game
-- [Golazon](https://golazon.com/) - football data mnmlst way
-- [Albicelestes](https://albicelestes.com/) - 🇦🇷⚽
-
 **Top repositories**
 
 {% for repo in repos %}
@@ -26,5 +20,11 @@
 **Current forks**
 
 {% for repo in forks -%}
-[{{ repo.name }}]({{ repo.html_url }}){% unless forloop.last %}, {% endunless %}
+[{{ repo.name }}]({{ repo`.html_url }}){% unless forloop.last %}, {% endunless %}
 {%- endfor %}
+
+**Current projects**
+
+[Golazon](https://golazon.com/),
+[Albicelestes](https://albicelestes.com/),
+[Hydropuzzle](https://www.sobstel.org/hydropuzzle/)
