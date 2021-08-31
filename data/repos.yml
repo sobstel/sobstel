@@ -2,7 +2,7 @@
 - name: albicelestes
   full_name: sobstel/albicelestes
   html_url: https://github.com/sobstel/albicelestes
-  description: "¡Vamos Argentina! \U0001F1E6\U0001F1F7"
+  description: "¡Vamos Argentina! \U0001F1E6\U0001F1F7⚽"
   fork: false
   stargazers_count: 1
   language: TypeScript
@@ -175,6 +175,13 @@
   fork: false
   stargazers_count: 1
   language: JavaScript
+- name: sobstel
+  full_name: sobstel/sobstel
+  html_url: https://github.com/sobstel/sobstel
+  description:
+  fork: false
+  stargazers_count: 0
+  language: Ruby
 - name: sobstel.github.com
   full_name: sobstel/sobstel.github.com
   html_url: https://github.com/sobstel/sobstel.github.com
@@ -185,13 +192,6 @@
 - name: viztrail
   full_name: sobstel/viztrail
   html_url: https://github.com/sobstel/viztrail
-  description:
-  fork: false
-  stargazers_count: 0
-  language: Ruby
-- name: sobstel
-  full_name: sobstel/sobstel
-  html_url: https://github.com/sobstel/sobstel
   description:
   fork: false
   stargazers_count: 0

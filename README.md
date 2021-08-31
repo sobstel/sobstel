@@ -2,12 +2,6 @@
 
 **Current stack**: React, TypeScript, Ruby
 
-**Top projects**
-
-- [Hydropuzzle](https://www.sobstel.org/hydropuzzle/) - iOS game
-- [Golazon](https://golazon.com/) - football data mnmlst way
-- [Albicelestes](https://albicelestes.com/) - 🇦🇷⚽
-
 **Top repositories**
 
 
@@ -18,7 +12,7 @@
 - [jsonp.js](https://github.com/sobstel/jsonp.js) (★ 35) - Lightweight JSONP library for cross-domain ajax calls. **JavaScript**
 - [sequent](https://github.com/sobstel/sequent) (★ 76) - Short-term memory training game (mobile). Built with React Native and Redux. **JavaScript**
 - [sesshin](https://github.com/sobstel/sesshin) (★ 66) - PHP secure advanced session manager.
-- [albicelestes](https://github.com/sobstel/albicelestes) - ¡Vamos Argentina! 🇦🇷 **TypeScript**
+- [albicelestes](https://github.com/sobstel/albicelestes) - ¡Vamos Argentina! 🇦🇷⚽ **TypeScript**
 - [calmbook](https://github.com/sobstel/calmbook) (★ 3) - Facebook pages without distractions. **TypeScript**
 - [locals](https://github.com/sobstel/locals) - Order form for local stores grounded by COVID-19. **TypeScript**
 - [jsondocr](https://github.com/sobstel/jsondocr) - DSL for documenting JSON structure. **Ruby**
@@ -32,3 +26,9 @@
 **Current forks**
 
 [openapi-clientlib-js](https://github.com/sobstel/openapi-clientlib-js), [remeda](https://github.com/sobstel/remeda), [bulk_insert](https://github.com/sobstel/bulk_insert), [react-navigation-workshop-examples](https://github.com/sobstel/react-navigation-workshop-examples), [react-native-typewriter](https://github.com/sobstel/react-native-typewriter), [pt-tests](https://github.com/sobstel/pt-tests)
+
+**Current projects**
+
+[Golazon](https://golazon.com/),
+[Albicelestes](https://albicelestes.com/),
+[Hydropuzzle](https://www.sobstel.org/hydropuzzle/)
