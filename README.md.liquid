@@ -1,22 +1,30 @@
 # sobstel
 
-**Current stack**: Ruby, React, TypeScript
+**Current stack**: React, TypeScript, Ruby
 
-**Top repositories:**
+**Top projects**
+
+- [Hydropuzzle](https://www.sobstel.org/hydropuzzle/) - iOS game
+- [Golazon](https://golazon.com/) - football data mnmlst way
+- [Albicelestes](https://albicelestes.com/) - 🇦🇷⚽
+
+**Top repositories**
+
 {% for repo in repos %}
 - [{{ repo.name }}]({{ repo.html_url }})
   {%- if repo.stargazers_count > 1 %} (★ {{ repo.stargazers_count }}){% endif -%}
   {%- if repo.description %} - {{ repo.description }}{% endif -%}
   {%- if repo.language != 'PHP' %} **{{ repo.language }}**{% endif -%}
 {%- endfor %}
-- Go to Repositories tab to see the full list
 
-**Contributions:**
+**Contributions**
+
 {% for contrib in contribs -%}
 [{{ contrib | split: '/' | last  }}](https://github.com/{{ contrib }}/commits?author=sobstel){% unless forloop.last %}, {% endunless %}
 {%- endfor %}
 
-**Current forks:**
+**Current forks**
+
 {% for repo in forks -%}
 [{{ repo.name }}]({{ repo.html_url }}){% unless forloop.last %}, {% endunless %}
 {%- endfor %}

@@ -1,18 +1,4 @@
 ---
-- name: jurathlon
-  full_name: sobstel/jurathlon
-  html_url: https://github.com/sobstel/jurathlon
-  description:
-  fork: false
-  stargazers_count: 0
-  language: JavaScript
-- name: golazon
-  full_name: sobstel/golazon
-  html_url: https://github.com/sobstel/golazon
-  description: Football data mnmlist way. Built with Next.js and Ruby.
-  fork: false
-  stargazers_count: 28
-  language: TypeScript
 - name: albicelestes
   full_name: sobstel/albicelestes
   html_url: https://github.com/sobstel/albicelestes
@@ -20,6 +6,20 @@
   fork: false
   stargazers_count: 1
   language: TypeScript
+- name: golazon
+  full_name: sobstel/golazon
+  html_url: https://github.com/sobstel/golazon
+  description: Football data mnmlist way. Built with Next.js and Ruby.
+  fork: false
+  stargazers_count: 28
+  language: TypeScript
+- name: jurathlon
+  full_name: sobstel/jurathlon
+  html_url: https://github.com/sobstel/jurathlon
+  description:
+  fork: false
+  stargazers_count: 0
+  language: JavaScript
 - name: react-native-animatable-unmountable
   full_name: sobstel/react-native-animatable-unmountable
   html_url: https://github.com/sobstel/react-native-animatable-unmountable
@@ -89,7 +89,7 @@
   html_url: https://github.com/sobstel/metaphore
   description: Cache slam defense using a semaphore to prevent dogpile effect.
   fork: false
-  stargazers_count: 96
+  stargazers_count: 97
   language: PHP
 - name: bulk_insert
   full_name: sobstel/bulk_insert
@@ -175,13 +175,6 @@
   fork: false
   stargazers_count: 1
   language: JavaScript
-- name: sobstel
-  full_name: sobstel/sobstel
-  html_url: https://github.com/sobstel/sobstel
-  description:
-  fork: false
-  stargazers_count: 0
-  language: Ruby
 - name: sobstel.github.com
   full_name: sobstel/sobstel.github.com
   html_url: https://github.com/sobstel/sobstel.github.com
@@ -189,6 +182,20 @@
   fork: false
   stargazers_count: 0
   language: HTML
+- name: viztrail
+  full_name: sobstel/viztrail
+  html_url: https://github.com/sobstel/viztrail
+  description:
+  fork: false
+  stargazers_count: 0
+  language: Ruby
+- name: sobstel
+  full_name: sobstel/sobstel
+  html_url: https://github.com/sobstel/sobstel
+  description:
+  fork: false
+  stargazers_count: 0
+  language: Ruby
 - name: voltpuzzle
   full_name: sobstel/voltpuzzle
   html_url: https://github.com/sobstel/voltpuzzle
@@ -210,7 +217,7 @@
   html_url: https://github.com/sobstel/sesshin
   description: PHP secure advanced session manager.
   fork: false
-  stargazers_count: 65
+  stargazers_count: 66
   language: PHP
 - name: www.hydropuzzle.com
   full_name: sobstel/www.hydropuzzle.com
