@@ -183,6 +183,13 @@
   fork: false
   stargazers_count: 0
   language: HTML
+- name: sobstel
+  full_name: sobstel/sobstel
+  html_url: https://github.com/sobstel/sobstel
+  description:
+  fork: false
+  stargazers_count: 0
+  language: Ruby
 - name: viztrail
   full_name: sobstel/viztrail
   html_url: https://github.com/sobstel/viztrail
@@ -203,15 +210,8 @@
   html_url: https://github.com/sobstel/sesshin
   description: PHP secure advanced session manager.
   fork: false
-  stargazers_count: 67
+  stargazers_count: 68
   language: PHP
-- name: sobstel
-  full_name: sobstel/sobstel
-  html_url: https://github.com/sobstel/sobstel
-  description:
-  fork: false
-  stargazers_count: 0
-  language: Ruby
 - name: www.hydropuzzle.com
   full_name: sobstel/www.hydropuzzle.com
   html_url: https://github.com/sobstel/www.hydropuzzle.com

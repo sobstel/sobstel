@@ -11,7 +11,7 @@
 - [react-native-animatable-unmountable](https://github.com/sobstel/react-native-animatable-unmountable) (★ 15) - Declarative transitions and animations for React Native (with unmount effect). **JavaScript**
 - [sequent](https://github.com/sobstel/sequent) (★ 76) - Short-term memory training game (mobile). Built with React Native and Redux. **JavaScript**
 - [jsonp.js](https://github.com/sobstel/jsonp.js) (★ 35) - Lightweight JSONP library for cross-domain ajax calls. **JavaScript**
-- [sesshin](https://github.com/sobstel/sesshin) (★ 67) - PHP secure advanced session manager.
+- [sesshin](https://github.com/sobstel/sesshin) (★ 68) - PHP secure advanced session manager.
 - [albicelestes](https://github.com/sobstel/albicelestes) - ¡Vamos Argentina! 🇦🇷⚽ **TypeScript**
 - [locals](https://github.com/sobstel/locals) - Order form for local stores grounded by COVID-19. **TypeScript**
 - [calmbook](https://github.com/sobstel/calmbook) (★ 3) - Facebook pages without distractions. **TypeScript**
