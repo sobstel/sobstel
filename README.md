@@ -2,7 +2,7 @@
 
 **Current stack**: React, TypeScript, Ruby
 
-**Top repositories**
+**Selected repositories**
 
 
 - [golazon](https://github.com/sobstel/golazon) (★ 30) - Football data mnmlist way. Built with Next.js and Ruby. **TypeScript**
