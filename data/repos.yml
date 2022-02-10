@@ -1,11 +1,4 @@
 ---
-- name: golazon
-  full_name: sobstel/golazon
-  html_url: https://github.com/sobstel/golazon
-  description: Football data mnmlist way. Built with Next.js and Ruby.
-  fork: false
-  stargazers_count: 29
-  language: TypeScript
 - name: albicelestes
   full_name: sobstel/albicelestes
   html_url: https://github.com/sobstel/albicelestes
@@ -13,12 +6,19 @@
   fork: false
   stargazers_count: 1
   language: TypeScript
+- name: golazon
+  full_name: sobstel/golazon
+  html_url: https://github.com/sobstel/golazon
+  description: Football data mnmlist way. Built with Next.js and Ruby.
+  fork: false
+  stargazers_count: 30
+  language: TypeScript
 - name: metaphore
   full_name: sobstel/metaphore
   html_url: https://github.com/sobstel/metaphore
   description: Cache slam defense using a semaphore to prevent dogpile effect.
   fork: false
-  stargazers_count: 97
+  stargazers_count: 98
   language: PHP
 - name: hydropuzzle
   full_name: sobstel/hydropuzzle
@@ -49,13 +49,6 @@
   fork: false
   stargazers_count: 15
   language: JavaScript
-- name: calmbook
-  full_name: sobstel/calmbook
-  html_url: https://github.com/sobstel/calmbook
-  description: Facebook pages without distractions.
-  fork: false
-  stargazers_count: 3
-  language: TypeScript
 - name: openapi-clientlib-js
   full_name: sobstel/openapi-clientlib-js
   html_url: https://github.com/sobstel/openapi-clientlib-js
@@ -182,7 +175,7 @@
   description:
   fork: false
   stargazers_count: 0
-  language: HTML
+  language: SCSS
 - name: viztrail
   full_name: sobstel/viztrail
   html_url: https://github.com/sobstel/viztrail
@@ -210,15 +203,8 @@
   html_url: https://github.com/sobstel/sesshin
   description: PHP secure advanced session manager.
   fork: false
-  stargazers_count: 68
+  stargazers_count: 67
   language: PHP
-- name: www.hydropuzzle.com
-  full_name: sobstel/www.hydropuzzle.com
-  html_url: https://github.com/sobstel/www.hydropuzzle.com
-  description:
-  fork: false
-  stargazers_count: 0
-  language: HTML
 - name: xentry
   full_name: sobstel/xentry
   html_url: https://github.com/sobstel/xentry
