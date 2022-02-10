@@ -22,9 +22,3 @@
 {% for repo in forks -%}
 [{{ repo.name }}]({{ repo`.html_url }}){% unless forloop.last %}, {% endunless %}
 {%- endfor %}
-
-**Current projects**
-
-[Golazon](https://golazon.com/),
-[Albicelestes](https://albicelestes.com/),
-[Hydropuzzle](https://www.sobstel.org/hydropuzzle/)

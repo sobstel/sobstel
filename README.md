@@ -25,9 +25,3 @@
 **Current forks**
 
 [openapi-clientlib-js](https://github.com/sobstel/openapi-clientlib-js), [remeda](https://github.com/sobstel/remeda), [bulk_insert](https://github.com/sobstel/bulk_insert), [react-navigation-workshop-examples](https://github.com/sobstel/react-navigation-workshop-examples), [react-native-typewriter](https://github.com/sobstel/react-native-typewriter), [pt-tests](https://github.com/sobstel/pt-tests)
-
-**Current projects**
-
-[Golazon](https://golazon.com/),
-[Albicelestes](https://albicelestes.com/),
-[Hydropuzzle](https://www.sobstel.org/hydropuzzle/)
