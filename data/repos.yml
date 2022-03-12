@@ -1,4 +1,11 @@
 ---
+- name: metaphore
+  full_name: sobstel/metaphore
+  html_url: https://github.com/sobstel/metaphore
+  description: Cache slam defense using a semaphore to prevent dogpile effect.
+  fork: false
+  stargazers_count: 98
+  language: PHP
 - name: albicelestes
   full_name: sobstel/albicelestes
   html_url: https://github.com/sobstel/albicelestes
@@ -13,19 +20,12 @@
   fork: false
   stargazers_count: 30
   language: TypeScript
-- name: metaphore
-  full_name: sobstel/metaphore
-  html_url: https://github.com/sobstel/metaphore
-  description: Cache slam defense using a semaphore to prevent dogpile effect.
-  fork: false
-  stargazers_count: 98
-  language: PHP
 - name: hydropuzzle
   full_name: sobstel/hydropuzzle
   html_url: https://github.com/sobstel/hydropuzzle
   description: Surreal tech adventure game for iOS and Android. Built with React Native.
   fork: false
-  stargazers_count: 11
+  stargazers_count: 12
   language: JavaScript
 - name: locals
   full_name: sobstel/locals
@@ -83,7 +83,7 @@
   description: Short-term memory training game (mobile). Built with React Native and
     Redux.
   fork: false
-  stargazers_count: 77
+  stargazers_count: 79
   language: JavaScript
 - name: bulk_insert
   full_name: sobstel/bulk_insert
@@ -183,13 +183,20 @@
   fork: false
   stargazers_count: 0
   language: SCSS
+- name: snaptraq
+  full_name: sobstel/snaptraq
+  html_url: https://github.com/sobstel/snaptraq
+  description:
+  fork: false
+  stargazers_count: 0
+  language: JavaScript
 - name: viztrail
   full_name: sobstel/viztrail
   html_url: https://github.com/sobstel/viztrail
   description:
   fork: false
   stargazers_count: 0
-  language: Ruby
+  language:
 - name: voltpuzzle
   full_name: sobstel/voltpuzzle
   html_url: https://github.com/sobstel/voltpuzzle

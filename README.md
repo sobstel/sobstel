@@ -5,11 +5,11 @@
 **Selected repositories**
 
 
-- [golazon](https://github.com/sobstel/golazon) (★ 30) - Football data mnmlist way. Built with Next.js and Ruby. **TypeScript**
 - [metaphore](https://github.com/sobstel/metaphore) (★ 98) - Cache slam defense using a semaphore to prevent dogpile effect.
-- [hydropuzzle](https://github.com/sobstel/hydropuzzle) (★ 11) - Surreal tech adventure game for iOS and Android. Built with React Native. **JavaScript**
+- [golazon](https://github.com/sobstel/golazon) (★ 30) - Football data mnmlist way. Built with Next.js and Ruby. **TypeScript**
+- [hydropuzzle](https://github.com/sobstel/hydropuzzle) (★ 12) - Surreal tech adventure game for iOS and Android. Built with React Native. **JavaScript**
 - [react-native-animatable-unmountable](https://github.com/sobstel/react-native-animatable-unmountable) (★ 15) - Declarative transitions and animations for React Native (with unmount effect). **JavaScript**
-- [sequent](https://github.com/sobstel/sequent) (★ 77) - Short-term memory training game (mobile). Built with React Native and Redux. **JavaScript**
+- [sequent](https://github.com/sobstel/sequent) (★ 79) - Short-term memory training game (mobile). Built with React Native and Redux. **JavaScript**
 - [jsonp.js](https://github.com/sobstel/jsonp.js) (★ 35) - Lightweight JSONP library for cross-domain ajax calls. **JavaScript**
 - [sesshin](https://github.com/sobstel/sesshin) (★ 67) - PHP secure advanced session manager.
 - [albicelestes](https://github.com/sobstel/albicelestes) - ¡Vamos Argentina! 🇦🇷⚽ **TypeScript**
@@ -25,3 +25,5 @@
 **Current forks**
 
 [openapi-clientlib-js](https://github.com/sobstel/openapi-clientlib-js), [remeda](https://github.com/sobstel/remeda), [bulk_insert](https://github.com/sobstel/bulk_insert), [react-navigation-workshop-examples](https://github.com/sobstel/react-navigation-workshop-examples), [react-native-typewriter](https://github.com/sobstel/react-native-typewriter), [pt-tests](https://github.com/sobstel/pt-tests)
+
+<a href='https://ko-fi.com/sobstel' target='_blank'><img height='32' src='https://az743702.vo.msecnd.net/cdn/kofi3.png?v=0' border='0' alt='Buy Me a Coffee at ko-fi.com' />
