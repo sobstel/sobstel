@@ -5,7 +5,7 @@
 **Selected repositories**
 
 
-- [metaphore](https://github.com/sobstel/metaphore) (★ 98) - Cache slam defense using a semaphore to prevent dogpile effect.
+- [metaphore](https://github.com/sobstel/metaphore) (★ 99) - Cache slam defense using a semaphore to prevent dogpile effect.
 - [golazon](https://github.com/sobstel/golazon) (★ 30) - Football data mnmlist way. Built with Next.js and Ruby. **TypeScript**
 - [hydropuzzle](https://github.com/sobstel/hydropuzzle) (★ 12) - Surreal tech adventure game for iOS and Android. Built with React Native. **JavaScript**
 - [react-native-animatable-unmountable](https://github.com/sobstel/react-native-animatable-unmountable) (★ 15) - Declarative transitions and animations for React Native (with unmount effect). **JavaScript**
