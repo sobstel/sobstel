@@ -1,4 +1,11 @@
 ---
+- name: golazon
+  full_name: sobstel/golazon
+  html_url: https://github.com/sobstel/golazon
+  description: Football data mnmlist way. Built with Next.js and Ruby.
+  fork: false
+  stargazers_count: 30
+  language: TypeScript
 - name: albicelestes
   full_name: sobstel/albicelestes
   html_url: https://github.com/sobstel/albicelestes
@@ -13,13 +20,6 @@
   fork: false
   stargazers_count: 99
   language: PHP
-- name: golazon
-  full_name: sobstel/golazon
-  html_url: https://github.com/sobstel/golazon
-  description: Football data mnmlist way. Built with Next.js and Ruby.
-  fork: false
-  stargazers_count: 30
-  language: TypeScript
 - name: hydropuzzle
   full_name: sobstel/hydropuzzle
   html_url: https://github.com/sobstel/hydropuzzle
