@@ -1,11 +1,4 @@
 ---
-- name: albicelestes
-  full_name: sobstel/albicelestes
-  html_url: https://github.com/sobstel/albicelestes
-  description: "¡Vamos Argentina! \U0001F1E6\U0001F1F7⚽"
-  fork: false
-  stargazers_count: 1
-  language: TypeScript
 - name: jurathlon
   full_name: sobstel/jurathlon
   html_url: https://github.com/sobstel/jurathlon
@@ -13,6 +6,13 @@
   fork: false
   stargazers_count: 0
   language: JavaScript
+- name: albicelestes
+  full_name: sobstel/albicelestes
+  html_url: https://github.com/sobstel/albicelestes
+  description: "¡Vamos Argentina! \U0001F1E6\U0001F1F7⚽"
+  fork: false
+  stargazers_count: 1
+  language: TypeScript
 - name: golazon
   full_name: sobstel/golazon
   html_url: https://github.com/sobstel/golazon
@@ -32,7 +32,7 @@
   html_url: https://github.com/sobstel/hydropuzzle
   description: Surreal tech adventure game for iOS and Android. Built with React Native.
   fork: false
-  stargazers_count: 12
+  stargazers_count: 13
   language: JavaScript
 - name: locals
   full_name: sobstel/locals
@@ -176,13 +176,13 @@
   fork: false
   stargazers_count: 0
   language: HTML
-- name: snaptrac
-  full_name: sobstel/snaptrac
-  html_url: https://github.com/sobstel/snaptrac
+- name: viztrail
+  full_name: sobstel/viztrail
+  html_url: https://github.com/sobstel/viztrail
   description:
   fork: false
   stargazers_count: 0
-  language: JavaScript
+  language: TypeScript
 - name: sobstel
   full_name: sobstel/sobstel
   html_url: https://github.com/sobstel/sobstel
@@ -190,13 +190,13 @@
   fork: false
   stargazers_count: 0
   language: Ruby
-- name: viztrail
-  full_name: sobstel/viztrail
-  html_url: https://github.com/sobstel/viztrail
+- name: snaptrac
+  full_name: sobstel/snaptrac
+  html_url: https://github.com/sobstel/snaptrac
   description:
   fork: false
   stargazers_count: 0
-  language:
+  language: JavaScript
 - name: voltpuzzle
   full_name: sobstel/voltpuzzle
   html_url: https://github.com/sobstel/voltpuzzle
