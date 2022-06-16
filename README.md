@@ -5,7 +5,7 @@
 **Selected repositories**
 
 
-- [golazon](https://github.com/sobstel/golazon) (★ 30) - Football data mnmlist way. Built with Next.js and Ruby. **TypeScript**
+- [golazon](https://github.com/sobstel/golazon) (★ 31) - Football data mnmlist way. Built with Next.js and Ruby. **TypeScript**
 - [metaphore](https://github.com/sobstel/metaphore) (★ 100) - Cache slam defense using a semaphore to prevent dogpile effect.
 - [hydropuzzle](https://github.com/sobstel/hydropuzzle) (★ 13) - Surreal tech adventure game for iOS and Android. Built with React Native. **JavaScript**
 - [react-native-animatable-unmountable](https://github.com/sobstel/react-native-animatable-unmountable) (★ 15) - Declarative transitions and animations for React Native (with unmount effect). **JavaScript**
