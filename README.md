@@ -6,7 +6,7 @@
 
 
 - [golazon](https://github.com/sobstel/golazon) (★ 31) - Football data mnmlist way. Built with Next.js and Ruby. **TypeScript**
-- [metaphore](https://github.com/sobstel/metaphore) (★ 100) - Cache slam defense using a semaphore to prevent dogpile effect.
+- [metaphore](https://github.com/sobstel/metaphore) (★ 101) - Cache slam defense using a semaphore to prevent dogpile effect.
 - [hydropuzzle](https://github.com/sobstel/hydropuzzle) (★ 13) - Surreal tech adventure game for iOS and Android. Built with React Native. **JavaScript**
 - [react-native-animatable-unmountable](https://github.com/sobstel/react-native-animatable-unmountable) (★ 15) - Declarative transitions and animations for React Native (with unmount effect). **JavaScript**
 - [sequent](https://github.com/sobstel/sequent) (★ 80) - Short-term memory training game (mobile). Built with React Native and Redux. **JavaScript**
@@ -20,7 +20,7 @@
 
 **Contributions**
 
-[remeda](https://github.com/remeda/remeda/commits?author=sobstel), [bulk_insert](https://github.com/jamis/bulk_insert/commits?author=sobstel), [heroku-fastly](https://github.com/fastly/heroku-fastly/commits?author=sobstel), [react-native-typewriter](https://github.com/TaylorBriggs/react-native-typewriter/commits?author=sobstel), [segment-analytics-react-native-core](https://github.com/Nabobil/segment-analytics-react-native-core/commits?author=sobstel), [homebrew-apache2](https://github.com/djl/homebrew-apache2/commits?author=sobstel), [decoupled.js](https://github.com/maciejsmolinski/decoupled.js/commits?author=sobstel), [monolog](https://github.com/Seldaek/monolog/commits?author=sobstel), [Aura.Marshal](https://github.com/auraphp/Aura.Marshal/commits?author=sobstel), [DoctrineExtensions](https://github.com/beberlei/DoctrineExtensions/commits?author=sobstel), [common](https://github.com/doctrine/common/commits?author=sobstel), [LSDCache](https://github.com/gsmlabs/LSDCache/commits?author=sobstel), [SyncedSideBar](https://github.com/TheSpyder/SyncedSideBar/commits?author=sobstel)
+[openapi-clientlib-js](https://github.com/SaxoBank/openapi-clientlib-js/commits?author=sobstel), [remeda](https://github.com/remeda/remeda/commits?author=sobstel), [bulk_insert](https://github.com/jamis/bulk_insert/commits?author=sobstel), [heroku-fastly](https://github.com/fastly/heroku-fastly/commits?author=sobstel), [react-native-typewriter](https://github.com/TaylorBriggs/react-native-typewriter/commits?author=sobstel), [segment-analytics-react-native-core](https://github.com/Nabobil/segment-analytics-react-native-core/commits?author=sobstel), [homebrew-apache2](https://github.com/djl/homebrew-apache2/commits?author=sobstel), [decoupled.js](https://github.com/maciejsmolinski/decoupled.js/commits?author=sobstel), [monolog](https://github.com/Seldaek/monolog/commits?author=sobstel), [Aura.Marshal](https://github.com/auraphp/Aura.Marshal/commits?author=sobstel), [DoctrineExtensions](https://github.com/beberlei/DoctrineExtensions/commits?author=sobstel), [common](https://github.com/doctrine/common/commits?author=sobstel), [LSDCache](https://github.com/gsmlabs/LSDCache/commits?author=sobstel), [SyncedSideBar](https://github.com/TheSpyder/SyncedSideBar/commits?author=sobstel)
 
 **Current forks**
 
