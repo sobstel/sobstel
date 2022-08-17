@@ -1,11 +1,4 @@
 ---
-- name: jurathlon
-  full_name: sobstel/jurathlon
-  html_url: https://github.com/sobstel/jurathlon
-  description:
-  fork: false
-  stargazers_count: 0
-  language: JavaScript
 - name: golazon
   full_name: sobstel/golazon
   html_url: https://github.com/sobstel/golazon
@@ -13,6 +6,13 @@
   fork: false
   stargazers_count: 31
   language: TypeScript
+- name: jurathlon
+  full_name: sobstel/jurathlon
+  html_url: https://github.com/sobstel/jurathlon
+  description:
+  fork: false
+  stargazers_count: 0
+  language: JavaScript
 - name: albicelestes
   full_name: sobstel/albicelestes
   html_url: https://github.com/sobstel/albicelestes
@@ -190,13 +190,6 @@
   fork: false
   stargazers_count: 0
   language: TypeScript
-- name: snaptrac
-  full_name: sobstel/snaptrac
-  html_url: https://github.com/sobstel/snaptrac
-  description:
-  fork: false
-  stargazers_count: 0
-  language: JavaScript
 - name: voltpuzzle
   full_name: sobstel/voltpuzzle
   html_url: https://github.com/sobstel/voltpuzzle
