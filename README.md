@@ -26,4 +26,3 @@
 
 [openapi-clientlib-js](https://github.com/sobstel/openapi-clientlib-js), [remeda](https://github.com/sobstel/remeda), [bulk_insert](https://github.com/sobstel/bulk_insert), [react-navigation-workshop-examples](https://github.com/sobstel/react-navigation-workshop-examples), [react-native-typewriter](https://github.com/sobstel/react-native-typewriter), [pt-tests](https://github.com/sobstel/pt-tests)
 
-<a href='https://ko-fi.com/sobstel' target='_blank'><img height='32' src='https://az743702.vo.msecnd.net/cdn/kofi3.png?v=0' border='0' alt='Buy Me a Coffee at ko-fi.com' />

@@ -1,17 +1,17 @@
 ---
-- name: golazon
-  full_name: sobstel/golazon
-  html_url: https://github.com/sobstel/golazon
-  description: Football data mnmlist way. Built with Next.js and Ruby.
-  fork: false
-  stargazers_count: 33
-  language: TypeScript
 - name: albicelestes
   full_name: sobstel/albicelestes
   html_url: https://github.com/sobstel/albicelestes
   description: "¡Vamos Argentina! \U0001F1E6\U0001F1F7⚽"
   fork: false
   stargazers_count: 2
+  language: TypeScript
+- name: golazon
+  full_name: sobstel/golazon
+  html_url: https://github.com/sobstel/golazon
+  description: Football data mnmlist way. Built with Next.js and Ruby.
+  fork: false
+  stargazers_count: 33
   language: TypeScript
 - name: jurathlon
   full_name: sobstel/jurathlon
@@ -169,13 +169,6 @@
   fork: false
   stargazers_count: 1
   language: JavaScript
-- name: sobstel
-  full_name: sobstel/sobstel
-  html_url: https://github.com/sobstel/sobstel
-  description:
-  fork: false
-  stargazers_count: 0
-  language: Ruby
 - name: sobstel.github.com
   full_name: sobstel/sobstel.github.com
   html_url: https://github.com/sobstel/sobstel.github.com
@@ -183,6 +176,13 @@
   fork: false
   stargazers_count: 0
   language: HTML
+- name: sobstel
+  full_name: sobstel/sobstel
+  html_url: https://github.com/sobstel/sobstel
+  description:
+  fork: false
+  stargazers_count: 0
+  language: Ruby
 - name: viztrail
   full_name: sobstel/viztrail
   html_url: https://github.com/sobstel/viztrail
