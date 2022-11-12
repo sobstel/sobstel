@@ -9,10 +9,10 @@
 - [metaphore](https://github.com/sobstel/metaphore) (★ 102) - Cache slam defense using a semaphore to prevent dogpile effect.
 - [hydropuzzle](https://github.com/sobstel/hydropuzzle) (★ 13) - Surreal tech adventure game for iOS and Android. Built with React Native. **JavaScript**
 - [react-native-animatable-unmountable](https://github.com/sobstel/react-native-animatable-unmountable) (★ 15) - Declarative transitions and animations for React Native (with unmount effect). **JavaScript**
-- [sequent](https://github.com/sobstel/sequent) (★ 81) - Short-term memory training game (mobile). Built with React Native and Redux. **JavaScript**
 - [jsonp.js](https://github.com/sobstel/jsonp.js) (★ 35) - Lightweight JSONP library for cross-domain ajax calls. **JavaScript**
 - [sesshin](https://github.com/sobstel/sesshin) (★ 67) - PHP secure advanced session manager.
-- [albicelestes](https://github.com/sobstel/albicelestes) (★ 2) - ¡Vamos Argentina! 🇦🇷⚽ **TypeScript**
+- [sequent](https://github.com/sobstel/sequent) (★ 82) - Short-term memory training game (mobile). Built with React Native and Redux. **JavaScript**
+- [albicelestes](https://github.com/sobstel/albicelestes) (★ 3) - ¡Vamos Argentina! 🇦🇷⚽ **TypeScript**
 - [locals](https://github.com/sobstel/locals) - Order form for local stores grounded by COVID-19. **TypeScript**
 - [jsondocr](https://github.com/sobstel/jsondocr) - DSL for documenting JSON structure. **Ruby**
 - [scru.js](https://github.com/sobstel/scru.js) - Lightweight execution dependency manager (lazy loading with dependencies). **JavaScript**
@@ -24,5 +24,5 @@
 
 **Current forks**
 
-[openapi-clientlib-js](https://github.com/sobstel/openapi-clientlib-js), [remeda](https://github.com/sobstel/remeda), [bulk_insert](https://github.com/sobstel/bulk_insert), [react-navigation-workshop-examples](https://github.com/sobstel/react-navigation-workshop-examples), [react-native-typewriter](https://github.com/sobstel/react-native-typewriter), [pt-tests](https://github.com/sobstel/pt-tests)
+[es-compat](https://github.com/sobstel/es-compat), [openapi-clientlib-js](https://github.com/sobstel/openapi-clientlib-js), [remeda](https://github.com/sobstel/remeda), [bulk_insert](https://github.com/sobstel/bulk_insert), [react-navigation-workshop-examples](https://github.com/sobstel/react-navigation-workshop-examples), [react-native-typewriter](https://github.com/sobstel/react-native-typewriter), [pt-tests](https://github.com/sobstel/pt-tests)
 
