@@ -1,4 +1,5 @@
 ---
+- robatwilliams/es-compat
 - SaxoBank/openapi-clientlib-js
 - remeda/remeda
 - jamis/bulk_insert
