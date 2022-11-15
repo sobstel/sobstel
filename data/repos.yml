@@ -168,13 +168,6 @@
   fork: false
   stargazers_count: 1
   language: JavaScript
-- name: sobstel.github.com
-  full_name: sobstel/sobstel.github.com
-  html_url: https://github.com/sobstel/sobstel.github.com
-  description: 
-  fork: false
-  stargazers_count: 0
-  language: HTML
 - name: sobstel
   full_name: sobstel/sobstel
   html_url: https://github.com/sobstel/sobstel
@@ -182,6 +175,13 @@
   fork: false
   stargazers_count: 0
   language: Ruby
+- name: sobstel.github.com
+  full_name: sobstel/sobstel.github.com
+  html_url: https://github.com/sobstel/sobstel.github.com
+  description: 
+  fork: false
+  stargazers_count: 0
+  language: HTML
 - name: viztrail
   full_name: sobstel/viztrail
   html_url: https://github.com/sobstel/viztrail
