@@ -1,17 +1,10 @@
 ---
-- name: es-compat
-  full_name: sobstel/es-compat
-  html_url: https://github.com/sobstel/es-compat
-  description: Check JavaScript code compatibility with target runtime environments
-  fork: true
-  stargazers_count: 0
-  language: 
 - name: albicelestes
   full_name: sobstel/albicelestes
   html_url: https://github.com/sobstel/albicelestes
   description: "¡Vamos Argentina! \U0001F1E6\U0001F1F7⚽"
   fork: false
-  stargazers_count: 3
+  stargazers_count: 4
   language: TypeScript
 - name: golazon
   full_name: sobstel/golazon
@@ -27,6 +20,13 @@
   fork: false
   stargazers_count: 0
   language: JavaScript
+- name: es-compat
+  full_name: sobstel/es-compat
+  html_url: https://github.com/sobstel/es-compat
+  description: Check JavaScript code compatibility with target runtime environments
+  fork: true
+  stargazers_count: 0
+  language: 
 - name: metaphore
   full_name: sobstel/metaphore
   html_url: https://github.com/sobstel/metaphore
@@ -168,13 +168,6 @@
   fork: false
   stargazers_count: 1
   language: JavaScript
-- name: sobstel
-  full_name: sobstel/sobstel
-  html_url: https://github.com/sobstel/sobstel
-  description: 
-  fork: false
-  stargazers_count: 0
-  language: Ruby
 - name: sobstel.github.com
   full_name: sobstel/sobstel.github.com
   html_url: https://github.com/sobstel/sobstel.github.com
@@ -182,6 +175,13 @@
   fork: false
   stargazers_count: 0
   language: HTML
+- name: sobstel
+  full_name: sobstel/sobstel
+  html_url: https://github.com/sobstel/sobstel
+  description: 
+  fork: false
+  stargazers_count: 0
+  language: Ruby
 - name: viztrail
   full_name: sobstel/viztrail
   html_url: https://github.com/sobstel/viztrail
@@ -210,7 +210,7 @@
   description: Short-term memory training game (mobile). Built with React Native and
     Redux.
   fork: false
-  stargazers_count: 82
+  stargazers_count: 84
   language: JavaScript
 - name: xentry
   full_name: sobstel/xentry
