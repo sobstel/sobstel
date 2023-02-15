@@ -7,11 +7,11 @@
 
 - [golazon](https://github.com/sobstel/golazon) (★ 33) - Football data mnmlist way. Built with Next.js and Ruby. **TypeScript**
 - [metaphore](https://github.com/sobstel/metaphore) (★ 102) - Cache slam defense using a semaphore to prevent dogpile effect.
-- [hydropuzzle](https://github.com/sobstel/hydropuzzle) (★ 13) - Surreal tech adventure game for iOS and Android. Built with React Native. **JavaScript**
+- [hydropuzzle](https://github.com/sobstel/hydropuzzle) (★ 14) - Surreal tech adventure game for iOS and Android. Built with React Native. **JavaScript**
 - [react-native-animatable-unmountable](https://github.com/sobstel/react-native-animatable-unmountable) (★ 15) - Declarative transitions and animations for React Native (with unmount effect). **JavaScript**
 - [jsonp.js](https://github.com/sobstel/jsonp.js) (★ 35) - Lightweight JSONP library for cross-domain ajax calls. **JavaScript**
 - [sesshin](https://github.com/sobstel/sesshin) (★ 67) - PHP secure advanced session manager.
-- [sequent](https://github.com/sobstel/sequent) (★ 84) - Short-term memory training game (mobile). Built with React Native and Redux. **JavaScript**
+- [sequent](https://github.com/sobstel/sequent) (★ 86) - Short-term memory training game (mobile). Built with React Native and Redux. **JavaScript**
 - [albicelestes](https://github.com/sobstel/albicelestes) (★ 4) - ¡Vamos Argentina! 🇦🇷⚽ **TypeScript**
 - [locals](https://github.com/sobstel/locals) - Order form for local stores grounded by COVID-19. **TypeScript**
 - [jsondocr](https://github.com/sobstel/jsondocr) - DSL for documenting JSON structure. **Ruby**
