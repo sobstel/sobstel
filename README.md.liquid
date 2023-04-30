@@ -11,13 +11,13 @@
 
 **Contributions**
 
-{% for contrib in contribs -%}
-[{{ contrib | split: '/' | last  }}](https://github.com/{{ contrib }}/commits?author=sobstel){% unless forloop.last %}, {% endunless %}
+{% for contrib in contribs %}
+- [{{ contrib | split: '/' | last  }}](https://github.com/{{ contrib }}/commits?author=sobstel)
 {%- endfor %}
 
 **Current forks**
 
-{% for repo in forks -%}
-[{{ repo.name }}]({{ repo`.html_url }}){% unless forloop.last %}, {% endunless %}
+{% for repo in forks %}
+- [{{ repo.name }}]({{ repo`.html_url }})
 {%- endfor %}
 
