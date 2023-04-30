@@ -1,9 +1,6 @@
 # sobstel
 
-**Current stack**: React, TypeScript, Ruby
-
 **Selected repositories**
-
 
 - [golazon](https://github.com/sobstel/golazon) (★ 33) - Football data mnmlist way. Built with Next.js and Ruby. **TypeScript**
 - [metaphore](https://github.com/sobstel/metaphore) (★ 102) - Cache slam defense using a semaphore to prevent dogpile effect.
