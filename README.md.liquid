@@ -7,11 +7,11 @@
 {%- if repo.stargazers_count > 1 %} (★ {{ repo.stargazers_count }}){% endif -%}
 {%- if repo.description %} - {{ repo.description }}{% endif -%}
 {%- if repo.language != 'PHP' %} **{{ repo.language }}**{% endif -%}
-{% endfor %}
+{%- endfor %}
 
 **Contributions**
 
-{% for contrib in contribs %}
+{% for contrib in contribs -%}
 [{{ contrib | split: '/' | last }}](https://github.com/{{ contrib }}/commits?author=sobstel),
 {% endfor %}
 
@@ -19,5 +19,5 @@
 
 {% for repo in forks %}
 [{{ repo.name }}]({{ repo`.html_url }}),
-{% endfor %}
+{%- endfor %}
 

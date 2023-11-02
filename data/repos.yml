@@ -1,24 +1,17 @@
 ---
-- name: jurathlon
-  full_name: sobstel/jurathlon
-  html_url: https://github.com/sobstel/jurathlon
-  description: 
-  fork: false
-  stargazers_count: 0
-  language: JavaScript
-- name: albicelestes
-  full_name: sobstel/albicelestes
-  html_url: https://github.com/sobstel/albicelestes
-  description: "¡Vamos Argentina! \U0001F1E6\U0001F1F7⚽"
-  fork: false
-  stargazers_count: 4
-  language: TypeScript
 - name: golazon
   full_name: sobstel/golazon
   html_url: https://github.com/sobstel/golazon
   description: Football data mnmlist way. Built with Next.js and Ruby.
   fork: false
-  stargazers_count: 34
+  stargazers_count: 33
+  language: TypeScript
+- name: albicelestes
+  full_name: sobstel/albicelestes
+  html_url: https://github.com/sobstel/albicelestes
+  description: "¡Vamos Argentina! \U0001F1E6\U0001F1F7⚽"
+  fork: false
+  stargazers_count: 3
   language: TypeScript
 - name: es-compat
   full_name: sobstel/es-compat
@@ -26,20 +19,20 @@
   description: Check JavaScript code compatibility with target runtime environments
   fork: true
   stargazers_count: 0
-  language: 
+  language:
 - name: metaphore
   full_name: sobstel/metaphore
   html_url: https://github.com/sobstel/metaphore
   description: Cache slam defense using a semaphore to prevent dogpile effect.
   fork: false
-  stargazers_count: 102
+  stargazers_count: 101
   language: PHP
 - name: hydropuzzle
   full_name: sobstel/hydropuzzle
   html_url: https://github.com/sobstel/hydropuzzle
   description: Surreal tech adventure game for iOS and Android. Built with React Native.
   fork: false
-  stargazers_count: 15
+  stargazers_count: 19
   language: JavaScript
 - name: locals
   full_name: sobstel/locals
@@ -66,14 +59,14 @@
 - name: may05
   full_name: sobstel/may05
   html_url: https://github.com/sobstel/may05
-  description: 
+  description:
   fork: false
   stargazers_count: 0
   language: TypeScript
 - name: ruby_shopping_cart
   full_name: sobstel/ruby_shopping_cart
   html_url: https://github.com/sobstel/ruby_shopping_cart
-  description: 
+  description:
   fork: false
   stargazers_count: 0
   language: Ruby
@@ -83,7 +76,15 @@
   description: A utility library for JavaScript and TypeScript.
   fork: true
   stargazers_count: 0
-  language: 
+  language:
+- name: sequent
+  full_name: sobstel/sequent
+  html_url: https://github.com/sobstel/sequent
+  description: Short-term memory training game (mobile). Built with React Native and
+    Redux.
+  fork: false
+  stargazers_count: 86
+  language: JavaScript
 - name: bulk_insert
   full_name: sobstel/bulk_insert
   html_url: https://github.com/sobstel/bulk_insert
@@ -94,7 +95,7 @@
 - name: react-navigation-workshop-examples
   full_name: sobstel/react-navigation-workshop-examples
   html_url: https://github.com/sobstel/react-navigation-workshop-examples
-  description: 
+  description:
   fork: true
   stargazers_count: 0
   language: JavaScript
@@ -168,31 +169,24 @@
   fork: false
   stargazers_count: 1
   language: JavaScript
-- name: sobstel
-  full_name: sobstel/sobstel
-  html_url: https://github.com/sobstel/sobstel
-  description: 
-  fork: false
-  stargazers_count: 0
-  language: Ruby
 - name: sobstel.github.com
   full_name: sobstel/sobstel.github.com
   html_url: https://github.com/sobstel/sobstel.github.com
-  description: 
+  description:
   fork: false
   stargazers_count: 0
   language: HTML
+- name: sobstel
+  full_name: sobstel/sobstel
+  html_url: https://github.com/sobstel/sobstel
+  description:
+  fork: false
+  stargazers_count: 0
+  language: Ruby
 - name: uboot-board-game-cheatsheet
   full_name: sobstel/uboot-board-game-cheatsheet
   html_url: https://github.com/sobstel/uboot-board-game-cheatsheet
-  description: 
-  fork: false
-  stargazers_count: 0
-  language: TypeScript
-- name: viztrail
-  full_name: sobstel/viztrail
-  html_url: https://github.com/sobstel/viztrail
-  description: 
+  description:
   fork: false
   stargazers_count: 0
   language: TypeScript
@@ -209,16 +203,8 @@
   html_url: https://github.com/sobstel/sesshin
   description: PHP secure advanced session manager.
   fork: false
-  stargazers_count: 67
+  stargazers_count: 66
   language: PHP
-- name: sequent
-  full_name: sobstel/sequent
-  html_url: https://github.com/sobstel/sequent
-  description: Short-term memory training game (mobile). Built with React Native and
-    Redux.
-  fork: false
-  stargazers_count: 86
-  language: JavaScript
 - name: xentry
   full_name: sobstel/xentry
   html_url: https://github.com/sobstel/xentry
@@ -229,7 +215,7 @@
 - name: theraventhatrefusedtosing
   full_name: sobstel/theraventhatrefusedtosing
   html_url: https://github.com/sobstel/theraventhatrefusedtosing
-  description: 
+  description:
   fork: false
   stargazers_count: 0
-  language: 
+  language:
