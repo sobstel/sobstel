@@ -30,7 +30,7 @@
 [DoctrineExtensions](https://github.com/beberlei/DoctrineExtensions/commits?author=sobstel),
 [common](https://github.com/doctrine/common/commits?author=sobstel),
 [LSDCache](https://github.com/gsmlabs/LSDCache/commits?author=sobstel),
-[SyncedSideBar](https://github.com/TheSpyder/SyncedSideBar/commits?author=sobstel),
+[SyncedSideBar](https://github.com/TheSpyder/SyncedSideBar/commits?author=sobstel)
 
 
 **Current forks**
@@ -41,6 +41,6 @@
 [bulk_insert](https://github.com/sobstel/bulk_insert),
 [react-navigation-workshop-examples](https://github.com/sobstel/react-navigation-workshop-examples),
 [react-native-typewriter](https://github.com/sobstel/react-native-typewriter),
-[pt-tests](https://github.com/sobstel/pt-tests),
+[pt-tests](https://github.com/sobstel/pt-tests)
 
 
