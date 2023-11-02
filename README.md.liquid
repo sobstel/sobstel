@@ -7,6 +7,7 @@
 {%- if repo.stargazers_count > 1 %} (★ {{ repo.stargazers_count }}){% endif -%}
 {%- if repo.description %} - {{ repo.description }}{% endif -%}
 {%- if repo.language != 'PHP' %} **{{ repo.language }}**{% endif -%}
+<br />
 {%- endfor %}
 
 **Contributions**

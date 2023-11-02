@@ -3,18 +3,18 @@
 **Selected repositories**
 
 
-[golazon](https://github.com/sobstel/golazon) (★ 33) - Football data mnmlist way. Built with Next.js and Ruby. **TypeScript**
-[metaphore](https://github.com/sobstel/metaphore) (★ 101) - Cache slam defense using a semaphore to prevent dogpile effect.
-[hydropuzzle](https://github.com/sobstel/hydropuzzle) (★ 19) - Surreal tech adventure game for iOS and Android. Built with React Native. **JavaScript**
-[react-native-animatable-unmountable](https://github.com/sobstel/react-native-animatable-unmountable) (★ 15) - Declarative transitions and animations for React Native (with unmount effect). **JavaScript**
-[sequent](https://github.com/sobstel/sequent) (★ 86) - Short-term memory training game (mobile). Built with React Native and Redux. **JavaScript**
-[jsonp.js](https://github.com/sobstel/jsonp.js) (★ 36) - Lightweight JSONP library for cross-domain ajax calls. **JavaScript**
-[sesshin](https://github.com/sobstel/sesshin) (★ 66) - PHP secure advanced session manager.
-[albicelestes](https://github.com/sobstel/albicelestes) (★ 3) - ¡Vamos Argentina! 🇦🇷⚽ **TypeScript**
-[locals](https://github.com/sobstel/locals) - Order form for local stores grounded by COVID-19. **TypeScript**
-[jsondocr](https://github.com/sobstel/jsondocr) - DSL for documenting JSON structure. **Ruby**
-[scru.js](https://github.com/sobstel/scru.js) - Lightweight execution dependency manager (lazy loading with dependencies). **JavaScript**
-[voltpuzzle](https://github.com/sobstel/voltpuzzle) - Sequel to Hydropuzzle. Built with React Native and Expo. (unfinished :/) **JavaScript**
+[golazon](https://github.com/sobstel/golazon) (★ 33) - Football data mnmlist way. Built with Next.js and Ruby. **TypeScript**<br />
+[metaphore](https://github.com/sobstel/metaphore) (★ 101) - Cache slam defense using a semaphore to prevent dogpile effect.<br />
+[hydropuzzle](https://github.com/sobstel/hydropuzzle) (★ 19) - Surreal tech adventure game for iOS and Android. Built with React Native. **JavaScript**<br />
+[react-native-animatable-unmountable](https://github.com/sobstel/react-native-animatable-unmountable) (★ 15) - Declarative transitions and animations for React Native (with unmount effect). **JavaScript**<br />
+[sequent](https://github.com/sobstel/sequent) (★ 86) - Short-term memory training game (mobile). Built with React Native and Redux. **JavaScript**<br />
+[jsonp.js](https://github.com/sobstel/jsonp.js) (★ 36) - Lightweight JSONP library for cross-domain ajax calls. **JavaScript**<br />
+[sesshin](https://github.com/sobstel/sesshin) (★ 66) - PHP secure advanced session manager.<br />
+[albicelestes](https://github.com/sobstel/albicelestes) (★ 3) - ¡Vamos Argentina! 🇦🇷⚽ **TypeScript**<br />
+[locals](https://github.com/sobstel/locals) - Order form for local stores grounded by COVID-19. **TypeScript**<br />
+[jsondocr](https://github.com/sobstel/jsondocr) - DSL for documenting JSON structure. **Ruby**<br />
+[scru.js](https://github.com/sobstel/scru.js) - Lightweight execution dependency manager (lazy loading with dependencies). **JavaScript**<br />
+[voltpuzzle](https://github.com/sobstel/voltpuzzle) - Sequel to Hydropuzzle. Built with React Native and Expo. (unfinished :/) **JavaScript**<br />
 
 **Contributions**
 
