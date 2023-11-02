@@ -3,21 +3,21 @@
 **Selected repositories**
 
 {% for repo in repos %}
-- [{{ repo.name }}]({{ repo.html_url }})
-  {%- if repo.stargazers_count > 1 %} (★ {{ repo.stargazers_count }}){% endif -%}
-  {%- if repo.description %} - {{ repo.description }}{% endif -%}
-  {%- if repo.language != 'PHP' %} **{{ repo.language }}**{% endif -%}
-{%- endfor %}
+[{{ repo.name }}]({{ repo.html_url }})
+{%- if repo.stargazers_count > 1 %} (★ {{ repo.stargazers_count }}){% endif -%}
+{%- if repo.description %} - {{ repo.description }}{% endif -%}
+{%- if repo.language != 'PHP' %} **{{ repo.language }}**{% endif -%}
+{% endfor %}
 
 **Contributions**
 
 {% for contrib in contribs %}
-- [{{ contrib | split: '/' | last  }}](https://github.com/{{ contrib }}/commits?author=sobstel)
-{%- endfor %}
+[{{ contrib | split: '/' | last }}](https://github.com/{{ contrib }}/commits?author=sobstel),
+{% endfor %}
 
 **Current forks**
 
 {% for repo in forks %}
-- [{{ repo.name }}]({{ repo`.html_url }})
-{%- endfor %}
+[{{ repo.name }}]({{ repo`.html_url }}),
+{% endfor %}
 

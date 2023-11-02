@@ -1,16 +1,16 @@
 GEM
   remote: https://rubygems.org/
   specs:
-    dotenv (2.7.6)
-    json (2.6.1)
-    liquid (5.2.0)
-    mini_portile2 (2.8.0)
-    nokogiri (1.13.3)
-      mini_portile2 (~> 2.8.0)
+    dotenv (2.8.1)
+    json (2.6.3)
+    liquid (5.4.0)
+    mini_portile2 (2.8.5)
+    nokogiri (1.15.4)
+      mini_portile2 (~> 2.8.2)
       racc (~> 1.4)
     quotable (0.0.2)
-    racc (1.6.0)
-    rake (13.0.6)
+    racc (1.7.2)
+    rake (13.1.0)
 
 PLATFORMS
   ruby
@@ -24,7 +24,7 @@ DEPENDENCIES
   rake
 
 RUBY VERSION
-   ruby 2.7.2p137
+   ruby 3.2.2p53
 
 BUNDLED WITH
    2.1.4
