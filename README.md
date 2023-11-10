@@ -37,4 +37,9 @@
 - [CODE_delorean_clock_V4_SUMMER.ino [UPDATED]](https://gist.github.com/195b48cde1ece9f88f5f1480b9b1e51d) (Nov 2021)
 - [Remeda mapDuplicates](https://gist.github.com/f5a698b0c2379d5fadca23a702ca6426) (Apr 2021)
 - [react-native-animatable unmount animation with hooks](https://gist.github.com/8b1b58dfe0b2f425d0850cb0f22a92c5) (Mar 2021)
+- [Deploy Ruby AWS lambda with github action](https://gist.github.com/df38c7a45f360b80272e82a8bb592e45) (Oct 2020)
+- [win10vm_apple_keyboard](https://gist.github.com/683aae3443b6fcf7282592a88b706d53) (Jun 2020)
+- [Google page speed report 2018](https://gist.github.com/610af92a102fca1706dab95161d4aa45) (May 2020)
+- [React Navigation (v4) sequential navigator ](https://gist.github.com/515e8ece6e5e26d843c4f02c8bc42bff) (Apr 2020)
+- [TypeScript cheatsheet](https://gist.github.com/3be5d2e62b306cdefb93d3b91c00ae34) (Sep 2019)
 - <a href="GISTS.md">more...</a>
