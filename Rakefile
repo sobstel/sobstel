@@ -22,7 +22,7 @@ end
 
 def load_data(name)
   file = "data/#{name}.yml"
-  YAML.load_file(file)
+  YAML.load_file(file, permitted_classes: [Time])
 end
 
 def github_fetch(url)
@@ -43,9 +43,9 @@ task :publish, :message do |_, args|
   args.with_defaults message: Quotable.random.gsub(/[“”"]/, '')
   message = args[:message]
 
-  task(:import_github_repos).execute
+  # task(:import_github_repos).execute
   # task(:import_github_contributions).execute
-  task(:generate_readme).execute
+  task(:generate_readmes).execute
 
   sh 'git add --all .'
   sh "git commit . --message=\"#{message}\""
@@ -53,10 +53,11 @@ task :publish, :message do |_, args|
   sh 'git push'
 end
 
-desc 'Generate README'
-task :generate_readme do
+desc 'Generate READMEs'
+task :generate_readmes do
   repos = load_data('repos')
   contribs = load_data('contribs')
+  gists = load_data('gists')
 
   my_repos, forks = repos.partition { |repo| !repo['fork'] }
 
@@ -70,9 +71,15 @@ task :generate_readme do
     'repos' => popular_repos + other_repos,
     'forks' => forks,
     'contribs' => contribs,
+    'gists' => gists
   )
-
   File.write('README.md', content)
+
+  template = Liquid::Template.parse(File.read('GISTS.md.liquid'))
+  content = template.render(
+    'gists' => gists
+  )
+  File.write('GISTS.md', content)
 end
 
 desc 'Import GitHub repos'
@@ -110,4 +117,29 @@ task :import_github_contributions do
   github_contributions.reject! { |repo| repo.include?('awesome') }
 
   save_data('contribs', github_contributions)
+end
+
+desc 'Import GitHub gists'
+task :import_gists do
+  gists = load_data('gists')
+  since = gists.first['date'].to_s
+
+  url = format('https://api.github.com/users/%s/gists?since=%s', 'sobstel', since)
+  puts "fetch from #{url}"
+
+  new_gists = JSON.parse(github_fetch(url)).select do |gist|
+    gist['public']
+  end
+
+  new_gists.reject do |gist|
+    gist['created_at'] <= since
+  end.reverse.each do |gist|
+    gists.unshift(
+      'title' => gist['description'],
+      'url' => gist['html_url'],
+      'date' => gist['created_at']
+    )
+  end
+
+  save_data('gists', gists)
 end

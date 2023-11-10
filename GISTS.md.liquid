@@ -1,0 +1,3 @@
+{% for gist in gists -%}
+- <a href="{{ gist.url }}" target="_blank">{{ gist.title }}</a> ({{ gist.date | date: "%b %Y" }})
+{% endfor %}

@@ -24,3 +24,10 @@
 - <a href="//albicelestes.com">albicelestes.com</a>
 - <a href="//github.com/sobstel/locals">locals</a>
 - <a href="//github.com/sobstel/sequent">sequent</a>
+
+**Recent gists**
+
+{% for gist in gists | limit: 5 -%}
+- <a href="{{ gist.url }}" target="_blank">{{ gist.title }}</a> ({{ gist.date | date: "%b %Y" }})
+{% endfor %}
+- <a href="GISTS.md">more...</a>
