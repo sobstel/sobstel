@@ -27,7 +27,7 @@
 
 **Recent gists**
 
-{% for gist in gists | limit: 10 -%}
+{% for gist in gists | limit: 20 -%}
 - [{{ gist.title }}]({{ gist.url }}) ({{ gist.date | date: "%b %Y" }})
 {% endfor -%}
 - <a href="GISTS.md">more...</a>
