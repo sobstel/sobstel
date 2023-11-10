@@ -14,7 +14,7 @@
 - [scru.js](https://github.com/sobstel/scru.js) - Lightweight execution dependency manager (lazy loading with dependencies). **JavaScript**
 - [voltpuzzle](https://github.com/sobstel/voltpuzzle) - Sequel to Hydropuzzle. Built with React Native and Expo. (unfinished :/) **JavaScript**
 
-**Contributions**
+***Contributions***
 
 [es-compat](https://github.com/robatwilliams/es-compat/commits?author=sobstel),
 [openapi-clientlib-js](https://github.com/SaxoBank/openapi-clientlib-js/commits?author=sobstel),
@@ -33,7 +33,7 @@
 [SyncedSideBar](https://github.com/TheSpyder/SyncedSideBar/commits?author=sobstel)
 
 
-**Current forks**
+***Current forks***
 
 [es-compat](https://github.com/sobstel/es-compat),
 [openapi-clientlib-js](https://github.com/sobstel/openapi-clientlib-js),
@@ -46,19 +46,10 @@
 
 **Some projects and companies that i worked for/with**
 
-<a href="//www.home.saxo/platforms/saxotradergo">SaxoTraderGO</a>,
-<a href="//www.saxoinvestor.com">SaxoInvestor</a>,
-SaxoPartnerConnect,
-<a href="//www.home.saxo/platforms/saxotraderpro">SaxoTraderPRO</a>,
-<a href="//no.getaround.com">Getaround Norge</a> (ex-<a href="//nabobil.no">Nabobil</a>),
-<a href="//www.appjobs.com">AppJobs</a>,
-<a href="//www.protipster.com">ProTipster</a>,
-<a href="//baytekin.media">Baytekin</a>,
-<a href="//www.statsperform.com/opta/">Opta&nbsp;Sports</a>,
-<a href="//www.statsperform.com/">Stats&nbsp;Perform</a>,
-Microsoft,
-<a href="//www.soccerway.com">Soccerway</a>,
-<a href="//www.globalsportsmedia.com">Global Sports Media</a>
+- <a href="//www.home.saxo/platforms/saxotradergo">SaxoTraderGO</a>, <a href="//www.saxoinvestor.com">SaxoInvestor</a>, SaxoPartnerConnect, <a href="//www.home.saxo/platforms/saxotraderpro">SaxoTraderPRO</a>
+- <a href="//no.getaround.com">Getaround Norge</a> (ex-<a href="//nabobil.no">Nabobil</a>)
+- <a href="//www.appjobs.com">AppJobs</a>, <a href="//www.protipster.com">ProTipster</a>, <a href="//baytekin.media">Baytekin</a>
+- <a href="//www.statsperform.com/opta/">Opta&nbsp;Sports</a>, <a href="//www.statsperform.com/">Stats&nbsp;Perform</a>, Microsoft, <a href="//www.soccerway.com">Soccerway</a>, <a href="//www.globalsportsmedia.com">Global Sports Media</a>
 
 **Pet projects**
 
