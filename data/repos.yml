@@ -37,7 +37,8 @@
 - name: locals
   full_name: sobstel/locals
   html_url: https://github.com/sobstel/locals
-  description: Order form for local stores grounded by COVID-19.
+  description: Order form for local stores grounded by COVID-19 (managed from plain
+    simple google spreadsheet).
   fork: false
   stargazers_count: 1
   language: TypeScript
