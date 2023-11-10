@@ -32,10 +32,9 @@
 
 **Recent gists**
 
-- <a href="https://gist.github.com/ff27eee6cc1279812ff2c9689e7467b7" target="_blank">Handle browser-autofilled password in Chrome</a> (Sep 2022)
-- <a href="https://gist.github.com/0c74c8533400e4312c90b10bfb7444ee" target="_blank">Shape Up: Write the Pitch</a> (Apr 2022)
-- <a href="https://gist.github.com/195b48cde1ece9f88f5f1480b9b1e51d" target="_blank">CODE_delorean_clock_V4_SUMMER.ino [UPDATED]</a> (Nov 2021)
-- <a href="https://gist.github.com/f5a698b0c2379d5fadca23a702ca6426" target="_blank">Remeda mapDuplicates</a> (Apr 2021)
-- <a href="https://gist.github.com/8b1b58dfe0b2f425d0850cb0f22a92c5" target="_blank">react-native-animatable unmount animation with hooks</a> (Mar 2021)
-
+- [Handle browser-autofilled password in Chrome](https://gist.github.com/ff27eee6cc1279812ff2c9689e7467b7) (Sep 2022)
+- [Shape Up: Write the Pitch](https://gist.github.com/0c74c8533400e4312c90b10bfb7444ee) (Apr 2022)
+- [CODE_delorean_clock_V4_SUMMER.ino [UPDATED]](https://gist.github.com/195b48cde1ece9f88f5f1480b9b1e51d) (Nov 2021)
+- [Remeda mapDuplicates](https://gist.github.com/f5a698b0c2379d5fadca23a702ca6426) (Apr 2021)
+- [react-native-animatable unmount animation with hooks](https://gist.github.com/8b1b58dfe0b2f425d0850cb0f22a92c5) (Mar 2021)
 - <a href="GISTS.md">more...</a>
