@@ -1,4 +1,4 @@
-**Selected repositories**
+**Top open source repos**
 - [golazon](https://github.com/sobstel/golazon) (★ 33) - Football data mnmlist way. Built with Next.js and Ruby. **TypeScript**
 - [metaphore](https://github.com/sobstel/metaphore) (★ 101) - Cache slam defense using a semaphore to prevent dogpile effect.
 - [hydropuzzle](https://github.com/sobstel/hydropuzzle) (★ 19) - Surreal tech adventure game for iOS and Android. Built with React Native. **JavaScript**
@@ -27,6 +27,7 @@
 - <a href="//albicelestes.com">albicelestes.com</a> - Argentina national team archive (built with **Remix** and **TypeScript**)
 - <a href="//github.com/sobstel/locals">locals</a> - order form for local stores grounded by COVID-19 managed from Google Sheets (built with **TypeScript**)
 - <a href="//github.com/sobstel/sequent">sequent</a> - short-term memory training game (built with **React Native**)
+- <a hrre="https://github.com/sobstel/voltpuzzle">voltpuzzle</a> - sequel to Hydropuzzle (built with **React Native** and **Expo**)_ABANDONED_
 
 **Recent gists**
 
