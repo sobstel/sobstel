@@ -20,6 +20,13 @@
   fork: true
   stargazers_count: 0
   language: Ruby
+- name: golazon-legacy
+  full_name: sobstel/golazon-legacy
+  html_url: https://github.com/sobstel/golazon-legacy
+  description: Football data mnmlist way. Built with Next.js and Ruby.
+  fork: false
+  stargazers_count: 33
+  language: TypeScript
 - name: albicelestes
   full_name: sobstel/albicelestes
   html_url: https://github.com/sobstel/albicelestes
