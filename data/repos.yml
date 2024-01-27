@@ -1,11 +1,25 @@
 ---
-- name: golazon
-  full_name: sobstel/golazon
-  html_url: https://github.com/sobstel/golazon
-  description: Football data mnmlist way. Built with Next.js and Ruby.
-  fork: false
-  stargazers_count: 33
-  language: TypeScript
+- name: atlassian-jwt-authentication
+  full_name: sobstel/atlassian-jwt-authentication
+  html_url: https://github.com/sobstel/atlassian-jwt-authentication
+  description:
+  fork: true
+  stargazers_count: 0
+  language: Ruby
+- name: message_bus
+  full_name: sobstel/message_bus
+  html_url: https://github.com/sobstel/message_bus
+  description: A reliable and robust messaging bus for Ruby and Rack
+  fork: true
+  stargazers_count: 0
+  language: Ruby
+- name: faraday-restrict-ip-addresses
+  full_name: sobstel/faraday-restrict-ip-addresses
+  html_url: https://github.com/sobstel/faraday-restrict-ip-addresses
+  description: Restrict outgoing Faraday traffic by IP address
+  fork: true
+  stargazers_count: 0
+  language: Ruby
 - name: albicelestes
   full_name: sobstel/albicelestes
   html_url: https://github.com/sobstel/albicelestes
@@ -64,13 +78,6 @@
   fork: false
   stargazers_count: 0
   language: TypeScript
-- name: ruby_shopping_cart
-  full_name: sobstel/ruby_shopping_cart
-  html_url: https://github.com/sobstel/ruby_shopping_cart
-  description:
-  fork: false
-  stargazers_count: 0
-  language: Ruby
 - name: remeda
   full_name: sobstel/remeda
   html_url: https://github.com/sobstel/remeda
@@ -78,14 +85,6 @@
   fork: true
   stargazers_count: 0
   language:
-- name: sequent
-  full_name: sobstel/sequent
-  html_url: https://github.com/sobstel/sequent
-  description: Short-term memory training game (mobile). Built with React Native and
-    Redux.
-  fork: false
-  stargazers_count: 86
-  language: JavaScript
 - name: bulk_insert
   full_name: sobstel/bulk_insert
   html_url: https://github.com/sobstel/bulk_insert
@@ -163,13 +162,6 @@
   fork: false
   stargazers_count: 2
   language: PHP
-- name: scru.js
-  full_name: sobstel/scru.js
-  html_url: https://github.com/sobstel/scru.js
-  description: Lightweight execution dependency manager (lazy loading with dependencies).
-  fork: false
-  stargazers_count: 1
-  language: JavaScript
 - name: sobstel
   full_name: sobstel/sobstel
   html_url: https://github.com/sobstel/sobstel
@@ -204,8 +196,23 @@
   html_url: https://github.com/sobstel/sesshin
   description: PHP secure advanced session manager.
   fork: false
-  stargazers_count: 66
+  stargazers_count: 65
   language: PHP
+- name: ruby_shopping_cart
+  full_name: sobstel/ruby_shopping_cart
+  html_url: https://github.com/sobstel/ruby_shopping_cart
+  description:
+  fork: false
+  stargazers_count: 0
+  language: Ruby
+- name: sequent
+  full_name: sobstel/sequent
+  html_url: https://github.com/sobstel/sequent
+  description: Short-term memory training game (mobile). Built with React Native and
+    Redux.
+  fork: false
+  stargazers_count: 88
+  language: JavaScript
 - name: xentry
   full_name: sobstel/xentry
   html_url: https://github.com/sobstel/xentry
@@ -220,3 +227,10 @@
   fork: false
   stargazers_count: 0
   language:
+- name: scru.js
+  full_name: sobstel/scru.js
+  html_url: https://github.com/sobstel/scru.js
+  description: Lightweight execution dependency manager (lazy loading with dependencies).
+  fork: false
+  stargazers_count: 1
+  language: JavaScript

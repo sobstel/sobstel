@@ -1,4 +1,7 @@
 ---
+- title: Partial node-redis mock
+  url: https://gist.github.com/sobstel/24b8418f2bffd7019d88bf9653773dfa
+  date: '2023-11-29T12:59:17Z'
 - title: Handle browser-autofilled password in Chrome
   url: https://gist.github.com/ff27eee6cc1279812ff2c9689e7467b7
   date: '2022-09-30T09:23:32Z'

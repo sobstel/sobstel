@@ -1,3 +1,4 @@
+- [Partial node-redis mock](https://gist.github.com/sobstel/24b8418f2bffd7019d88bf9653773dfa) (Nov 2023)
 - [Handle browser-autofilled password in Chrome](https://gist.github.com/ff27eee6cc1279812ff2c9689e7467b7) (Sep 2022)
 - [Shape Up: Write the Pitch](https://gist.github.com/0c74c8533400e4312c90b10bfb7444ee) (Apr 2022)
 - [CODE_delorean_clock_V4_SUMMER.ino [UPDATED]](https://gist.github.com/195b48cde1ece9f88f5f1480b9b1e51d) (Nov 2021)
