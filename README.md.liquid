@@ -9,7 +9,7 @@
 
 **Contributions**
 
-{% for contrib in contribs -%}[{{ contrib | split: '/' | last }}](https://github.com/{{> contrib }}/commits?author=sobstel){%- unless forloop.last %}, {% endunless %}{% endfor %}
+{% for contrib in contribs -%}[{{ contrib | split: '/' | last }}](https://github.com/{{ contrib }}/commits?author=sobstel){%- unless forloop.last %}, {% endunless %}{% endfor %}
 
 **Current forks**
 
