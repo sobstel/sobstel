@@ -31,7 +31,7 @@
 - <a href="//albicelestes.com">albicelestes.com</a> - Argentina national team archive (built with **Remix** and **TypeScript**) _ON HOLD_
 - <a href="//github.com/sobstel/locals">locals</a> - order form for local stores grounded by COVID-19 managed from Google Sheets (built with **TypeScript**)
 - <a href="//github.com/sobstel/sequent">sequent</a> - short-term memory training game (built with **React Native**)
-- - <a href="//sobstel.dev/hydropuzzle/">hydropuzzle</a> - surreal tech adventure mobile game (built with **React Native**)
+- <a href="//sobstel.dev/hydropuzzle/">hydropuzzle</a> - surreal tech adventure mobile game (built with **React Native**)
 - [voltpuzzle](https://github.com/sobstel/voltpuzzle) - sequel to Hydropuzzle (built with **React Native** and **Expo**) _ON HOLD_
 
 **Recent gists**
