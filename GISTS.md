@@ -1,3 +1,4 @@
+- [Background non-stopping setTimeout](https://gist.github.com/sobstel/a689fdf901de40b537c0bc8a014d15e7) (Feb 2024)
 - [Partial node-redis mock](https://gist.github.com/sobstel/24b8418f2bffd7019d88bf9653773dfa) (Nov 2023)
 - [Handle browser-autofilled password in Chrome](https://gist.github.com/ff27eee6cc1279812ff2c9689e7467b7) (Sep 2022)
 - [Shape Up: Write the Pitch](https://gist.github.com/0c74c8533400e4312c90b10bfb7444ee) (Apr 2022)
