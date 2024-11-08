@@ -8,7 +8,6 @@
 - [sequent](https://github.com/sobstel/sequent) (★ 93) - Short-term memory training game (mobile). Built with React Native and Redux. **JavaScript**
 - [albicelestes](https://github.com/sobstel/albicelestes) (★ 3) - ¡Vamos Argentina! 🇦🇷⚽ **TypeScript**
 - [jsondocr](https://github.com/sobstel/jsondocr) - DSL for documenting JSON structure. **Ruby**
-- [sobstel](https://github.com/sobstel/sobstel) **Ruby**
 - [sobstel.github.com](https://github.com/sobstel/sobstel.github.com) **HTML**
 
 **Contributions**

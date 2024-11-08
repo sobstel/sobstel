@@ -12,7 +12,7 @@ require 'dotenv/load'
 
 GITHUB_USER = 'sobstel'
 ALLOWED_REPO_ATTRS = %w[name full_name description html_url fork language stargazers_count]
-EXCLUDED_REPOS = %w[AsyncHTTP Execution locals scru.js]
+EXCLUDED_REPOS = %w[AsyncHTTP Execution locals scru.js sobstel sobstel.github.io]
 
 def save_data(name, object)
   file = "data/#{name}.yml"
