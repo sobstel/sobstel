@@ -19,6 +19,7 @@
 
 **Some projects and companies that I worked for**
 
+- <a href="//herocoders.com">HeroCoders</a>, <a href="//www.herocoders.com/products/jira-time-tracking">Clockwork for Jira</a>
 - <a href="//www.home.saxo/platforms/saxotradergo">SaxoTraderGO</a>, <a href="//www.saxoinvestor.com">SaxoInvestor</a>, SaxoPartnerConnect, <a href="//www.home.saxo/platforms/saxotraderpro">SaxoTraderPRO</a>
 - <a href="//no.getaround.com">Getaround Norge</a> (ex-<a href="//nabobil.no">Nabobil</a>)
 - <a href="//www.appjobs.com">AppJobs</a>, <a href="//www.protipster.com">ProTipster</a>, <a href="//baytekin.media">Baytekin</a>
