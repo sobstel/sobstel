@@ -1,4 +1,7 @@
 ---
+- title: Background non-stopping setTimeout
+  url: https://gist.github.com/sobstel/a689fdf901de40b537c0bc8a014d15e7
+  date: '2024-02-20T16:40:38Z'
 - title: Partial node-redis mock
   url: https://gist.github.com/sobstel/24b8418f2bffd7019d88bf9653773dfa
   date: '2023-11-29T12:59:17Z'

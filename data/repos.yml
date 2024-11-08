@@ -1,11 +1,32 @@
 ---
+- name: hydropuzzle
+  full_name: sobstel/hydropuzzle
+  html_url: https://github.com/sobstel/hydropuzzle
+  description: Surreal tech adventure game for iOS and Android. Built with React Native.
+  fork: false
+  stargazers_count: 19
+  language: JavaScript
+- name: metaphore
+  full_name: sobstel/metaphore
+  html_url: https://github.com/sobstel/metaphore
+  description: Cache slam defense using a semaphore to prevent dogpile effect.
+  fork: false
+  stargazers_count: 101
+  language: PHP
+- name: httpx
+  full_name: sobstel/httpx
+  html_url: https://github.com/sobstel/httpx
+  description: "(Mirror) An HTTP client library for ruby"
+  fork: true
+  stargazers_count: 0
+  language:
 - name: rails
   full_name: sobstel/rails
   html_url: https://github.com/sobstel/rails
   description: Ruby on Rails
   fork: true
   stargazers_count: 0
-  language: Ruby
+  language:
 - name: atlassian-jwt-authentication
   full_name: sobstel/atlassian-jwt-authentication
   html_url: https://github.com/sobstel/atlassian-jwt-authentication
@@ -32,7 +53,7 @@
   html_url: https://github.com/sobstel/golazon-legacy
   description: Football data mnmlist way. Built with Next.js and Ruby.
   fork: false
-  stargazers_count: 33
+  stargazers_count: 32
   language: TypeScript
 - name: albicelestes
   full_name: sobstel/albicelestes
@@ -48,20 +69,6 @@
   fork: true
   stargazers_count: 0
   language:
-- name: metaphore
-  full_name: sobstel/metaphore
-  html_url: https://github.com/sobstel/metaphore
-  description: Cache slam defense using a semaphore to prevent dogpile effect.
-  fork: false
-  stargazers_count: 101
-  language: PHP
-- name: hydropuzzle
-  full_name: sobstel/hydropuzzle
-  html_url: https://github.com/sobstel/hydropuzzle
-  description: Surreal tech adventure game for iOS and Android. Built with React Native.
-  fork: false
-  stargazers_count: 19
-  language: JavaScript
 - name: locals
   full_name: sobstel/locals
   html_url: https://github.com/sobstel/locals
@@ -99,13 +106,6 @@
   fork: true
   stargazers_count: 0
   language: Ruby
-- name: react-navigation-workshop-examples
-  full_name: sobstel/react-navigation-workshop-examples
-  html_url: https://github.com/sobstel/react-navigation-workshop-examples
-  description:
-  fork: true
-  stargazers_count: 0
-  language: JavaScript
 - name: react-native-typewriter
   full_name: sobstel/react-native-typewriter
   html_url: https://github.com/sobstel/react-native-typewriter
@@ -169,20 +169,20 @@
   fork: false
   stargazers_count: 2
   language: PHP
-- name: sobstel.github.com
-  full_name: sobstel/sobstel.github.com
-  html_url: https://github.com/sobstel/sobstel.github.com
-  description:
-  fork: false
-  stargazers_count: 0
-  language: HTML
 - name: sobstel
   full_name: sobstel/sobstel
   html_url: https://github.com/sobstel/sobstel
   description:
   fork: false
-  stargazers_count: 0
+  stargazers_count: 1
   language: Ruby
+- name: sobstel.github.com
+  full_name: sobstel/sobstel.github.com
+  html_url: https://github.com/sobstel/sobstel.github.com
+  description:
+  fork: false
+  stargazers_count: 1
+  language: HTML
 - name: uboot-board-game-cheatsheet
   full_name: sobstel/uboot-board-game-cheatsheet
   html_url: https://github.com/sobstel/uboot-board-game-cheatsheet
@@ -225,7 +225,14 @@
   description: Short-term memory training game (mobile). Built with React Native and
     Redux.
   fork: false
-  stargazers_count: 88
+  stargazers_count: 93
+  language: JavaScript
+- name: react-navigation-workshop-examples
+  full_name: sobstel/react-navigation-workshop-examples
+  html_url: https://github.com/sobstel/react-navigation-workshop-examples
+  description:
+  fork: true
+  stargazers_count: 0
   language: JavaScript
 - name: xentry
   full_name: sobstel/xentry
