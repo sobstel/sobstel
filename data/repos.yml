@@ -225,7 +225,7 @@
   description: Short-term memory training game (mobile). Built with React Native and
     Redux.
   fork: false
-  stargazers_count: 93
+  stargazers_count: 94
   language: JavaScript
 - name: react-navigation-workshop-examples
   full_name: sobstel/react-navigation-workshop-examples
