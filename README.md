@@ -17,7 +17,7 @@
 
 - [httpx](https://github.com/sobstel/httpx), [rails](https://github.com/sobstel/rails), [atlassian-jwt-authentication](https://github.com/sobstel/atlassian-jwt-authentication), [message_bus](https://github.com/sobstel/message_bus), [faraday-restrict-ip-addresses](https://github.com/sobstel/faraday-restrict-ip-addresses), [es-compat](https://github.com/sobstel/es-compat), [openapi-clientlib-js](https://github.com/sobstel/openapi-clientlib-js), [bulk_insert](https://github.com/sobstel/bulk_insert), [react-native-typewriter](https://github.com/sobstel/react-native-typewriter), [pt-tests](https://github.com/sobstel/pt-tests), [remeda](https://github.com/sobstel/remeda), [react-navigation-workshop-examples](https://github.com/sobstel/react-navigation-workshop-examples)
 
-**Some projects and companies that I worked for**
+**Selected projects and companies**
 
 - [HeroCoders](//herocoders.com), [Clockwork for Jira](//www.herocoders.com/products/jira-time-tracking)
 - <a href="//www.home.saxo/platforms/saxotradergo">SaxoTraderGO</a>, <a href="//www.saxoinvestor.com">SaxoInvestor</a>, SaxoPartnerConnect, <a href="//www.home.saxo/platforms/saxotraderpro">SaxoTraderPRO</a>
@@ -27,13 +27,13 @@
 
 **Pet projects**
 
-- <a href="//golazon.com">golazon.com</a> - mnmlst football data (built with **next.js** and **Ruby**, but being re-built now with **Rails**, **Ruby** and **Hotwire**)
+- <a href="//viztrail.com">viztrail.com</a> - visualize your trail (built with **Rails** and **Hotwire**) (work in progress)
 - <a href="//sobstel.dev/hydropuzzle/">hydropuzzle</a> - surreal tech adventure mobile game (built with **React Native**)
-- <a href="//viztrail.com">viztrail.com</a> - visualize your trail (built with **alpine.js** and **node.js**) (work in progress)
-- <a href="//albicelestes.com">albicelestes.com</a> - Argentina national team archive (built with **Remix** and **TypeScript**)
-- <a href="//github.com/sobstel/locals">locals</a> - order form for local stores grounded by COVID-19 managed from Google Sheets (built with **TypeScript**)
-- <a href="//github.com/sobstel/sequent">sequent</a> - short-term memory training game (built with **React Native**)
-- [voltpuzzle](https://github.com/sobstel/voltpuzzle) - sequel to Hydropuzzle (built with **React Native** and **Expo**) _ON HOLD_
+- <a href="//albicelestes.com">albicelestes.com</a> - Argentina national team archive 1901-2022 (built with **Remix** and **TypeScript**)
+- [locals](//github.com/sobstel/locals) - order form for local stores grounded by COVID-19 managed from Google Sheets (built with **TypeScript**)
+- [sequent](//github.com/sobstel/sequent) - short-term memory training game (built with **React Native**)
+- [golazon](//github.com/sobstel/golazon-legacy) - mnmlst football data (built with **next.js** and **Ruby**) _ON HOLD_
+- [voltpuzzle](//github.com/sobstel/voltpuzzle) - sequel to Hydropuzzle (built with **React Native** and **Expo**) _ON HOLD__
 
 **Recent gists**
 
