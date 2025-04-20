@@ -1,11 +1,11 @@
 **Top open source repos**
-- [hydropuzzle](https://github.com/sobstel/hydropuzzle) (★ 19) - Surreal tech adventure game for iOS and Android. Built with React Native. **JavaScript**
-- [metaphore](https://github.com/sobstel/metaphore) (★ 101) - Cache slam defense using a semaphore to prevent dogpile effect. **PHP**
+- [hydropuzzle](https://github.com/sobstel/hydropuzzle) (★ 21) - Surreal tech adventure game for iOS and Android. Built with React Native. **JavaScript**
+- [metaphore](https://github.com/sobstel/metaphore) (★ 100) - Cache slam defense using a semaphore to prevent dogpile effect. **PHP**
 - [golazon-legacy](https://github.com/sobstel/golazon-legacy) (★ 32) - Football data mnmlist way. Built with Next.js and Ruby. **TypeScript**
 - [react-native-animatable-unmountable](https://github.com/sobstel/react-native-animatable-unmountable) (★ 15) - Declarative transitions and animations for React Native (with unmount effect). **JavaScript**
 - [jsonp.js](https://github.com/sobstel/jsonp.js) (★ 36) - Lightweight JSONP library for cross-domain ajax calls. **JavaScript**
-- [sesshin](https://github.com/sobstel/sesshin) (★ 66) - PHP secure advanced session manager. **PHP**
-- [sequent](https://github.com/sobstel/sequent) (★ 94) - Short-term memory training game (mobile). Built with React Native and Redux. **JavaScript**
+- [sesshin](https://github.com/sobstel/sesshin) (★ 67) - PHP secure advanced session manager. **PHP**
+- [sequent](https://github.com/sobstel/sequent) (★ 95) - Short-term memory training game (mobile). Built with React Native and Redux. **JavaScript**
 - [albicelestes](https://github.com/sobstel/albicelestes) (★ 3) - ¡Vamos Argentina! 🇦🇷⚽ **TypeScript**
 - [jsondocr](https://github.com/sobstel/jsondocr) - DSL for documenting JSON structure. **Ruby**
 
