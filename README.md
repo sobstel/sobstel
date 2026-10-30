@@ -17,14 +17,6 @@
 
 - [httpx](https://github.com/sobstel/httpx), [rails](https://github.com/sobstel/rails), [atlassian-jwt-authentication](https://github.com/sobstel/atlassian-jwt-authentication), [message_bus](https://github.com/sobstel/message_bus), [faraday-restrict-ip-addresses](https://github.com/sobstel/faraday-restrict-ip-addresses), [es-compat](https://github.com/sobstel/es-compat), [openapi-clientlib-js](https://github.com/sobstel/openapi-clientlib-js), [bulk_insert](https://github.com/sobstel/bulk_insert), [react-native-typewriter](https://github.com/sobstel/react-native-typewriter), [pt-tests](https://github.com/sobstel/pt-tests), [remeda](https://github.com/sobstel/remeda), [react-navigation-workshop-examples](https://github.com/sobstel/react-navigation-workshop-examples)
 
-**Selected projects and companies**
-
-- [HeroCoders](//herocoders.com), [Clockwork for Jira](//www.herocoders.com/products/jira-time-tracking)
-- <a href="//www.home.saxo/platforms/saxotradergo">SaxoTraderGO</a>, <a href="//www.saxoinvestor.com">SaxoInvestor</a>, SaxoPartnerConnect, <a href="//www.home.saxo/platforms/saxotraderpro">SaxoTraderPRO</a>
-- <a href="//no.getaround.com">Getaround Norge</a> (ex-<a href="//nabobil.no">Nabobil</a>)
-- <a href="//www.appjobs.com">AppJobs</a>, <a href="//www.protipster.com">ProTipster</a>, <a href="//baytekin.media">Baytekin</a>
-- <a href="//www.statsperform.com/opta/">Opta&nbsp;Sports</a>, <a href="//www.statsperform.com/">Stats&nbsp;Perform</a>, Microsoft, <a href="//www.soccerway.com">Soccerway</a>, <a href="//www.globalsportsmedia.com">Global Sports Media</a>
-
 **Pet projects**
 
 - <a href="//viztrail.com">viztrail.com</a> - visualize your trail (built with **Rails** and **Hotwire**) (work in progress)
