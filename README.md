@@ -21,7 +21,7 @@
 
 - <a href="//viztrail.com">viztrail.com</a> - visualize your trail (built with **Rails** and **Hotwire**) (work in progress)
 - <a href="//sobstel.dev/hydropuzzle/">hydropuzzle</a> - surreal tech adventure mobile game (built with **React Native**)
-- <a href="//albicelestes.com">albicelestes.com</a> - Argentina national team archive 1901-2022 (built with **Remix** and **TypeScript**)
+- <a href="//albicelestes.com">albicelestes.com</a> - Argentina national team archive 1901-2022 (built with **Astro**)
 - [locals](//github.com/sobstel/locals) - order form for local stores grounded by COVID-19 managed from Google Sheets (built with **TypeScript**)
 - [sequent](//github.com/sobstel/sequent) - short-term memory training game (built with **React Native**)
 - [golazon](//github.com/sobstel/golazon-legacy) - mnmlst football data (built with **next.js** and **Ruby**) _ON HOLD_
