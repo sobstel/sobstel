@@ -1,12 +1,11 @@
 **Top open source repos**
-- [hydropuzzle](https://github.com/sobstel/hydropuzzle) (★ 21) - Surreal tech adventure game for iOS and Android. Built with React Native. **JavaScript**
-- [metaphore](https://github.com/sobstel/metaphore) (★ 100) - Cache slam defense using a semaphore to prevent dogpile effect. **PHP**
-- [golazon-legacy](https://github.com/sobstel/golazon-legacy) (★ 32) - Football data mnmlist way. Built with Next.js and Ruby. **TypeScript**
+- [hydropuzzle](https://github.com/sobstel/hydropuzzle) (★ 23) - Surreal tech adventure game for iOS and Android. Built with React Native. **JavaScript**
+- [metaphore](https://github.com/sobstel/metaphore) (★ 99) - Cache slam defense using a semaphore to prevent dogpile effect. **PHP**
+- [golazon-legacy](https://github.com/sobstel/golazon-legacy) (★ 31) - Football data mnmlist way. Built with Next.js and Ruby. **TypeScript**
 - [react-native-animatable-unmountable](https://github.com/sobstel/react-native-animatable-unmountable) (★ 15) - Declarative transitions and animations for React Native (with unmount effect). **JavaScript**
 - [jsonp.js](https://github.com/sobstel/jsonp.js) (★ 36) - Lightweight JSONP library for cross-domain ajax calls. **JavaScript**
 - [sesshin](https://github.com/sobstel/sesshin) (★ 67) - PHP secure advanced session manager. **PHP**
-- [sequent](https://github.com/sobstel/sequent) (★ 95) - Short-term memory training game (mobile). Built with React Native and Redux. **JavaScript**
-- [albicelestes](https://github.com/sobstel/albicelestes) (★ 3) - ¡Vamos Argentina! 🇦🇷⚽ **TypeScript**
+- [sequent](https://github.com/sobstel/sequent) (★ 97) - Short-term memory training game (mobile). Built with React Native and Redux. **JavaScript**
 - [jsondocr](https://github.com/sobstel/jsondocr) - DSL for documenting JSON structure. **Ruby**
 
 **Contributions**
@@ -15,7 +14,7 @@
 
 **Current forks**
 
-- [httpx](https://github.com/sobstel/httpx), [rails](https://github.com/sobstel/rails), [atlassian-jwt-authentication](https://github.com/sobstel/atlassian-jwt-authentication), [message_bus](https://github.com/sobstel/message_bus), [faraday-restrict-ip-addresses](https://github.com/sobstel/faraday-restrict-ip-addresses), [es-compat](https://github.com/sobstel/es-compat), [openapi-clientlib-js](https://github.com/sobstel/openapi-clientlib-js), [bulk_insert](https://github.com/sobstel/bulk_insert), [react-native-typewriter](https://github.com/sobstel/react-native-typewriter), [pt-tests](https://github.com/sobstel/pt-tests), [remeda](https://github.com/sobstel/remeda), [react-navigation-workshop-examples](https://github.com/sobstel/react-navigation-workshop-examples)
+- [claude-skills](https://github.com/sobstel/claude-skills), [httpx](https://github.com/sobstel/httpx), [rails](https://github.com/sobstel/rails), [atlassian-jwt-authentication](https://github.com/sobstel/atlassian-jwt-authentication), [message_bus](https://github.com/sobstel/message_bus), [faraday-restrict-ip-addresses](https://github.com/sobstel/faraday-restrict-ip-addresses), [es-compat](https://github.com/sobstel/es-compat), [openapi-clientlib-js](https://github.com/sobstel/openapi-clientlib-js), [bulk_insert](https://github.com/sobstel/bulk_insert), [react-native-typewriter](https://github.com/sobstel/react-native-typewriter), [pt-tests](https://github.com/sobstel/pt-tests), [remeda](https://github.com/sobstel/remeda), [react-navigation-workshop-examples](https://github.com/sobstel/react-navigation-workshop-examples)
 
 **Pet projects**
 
@@ -25,7 +24,7 @@
 - [locals](//github.com/sobstel/locals) - order form for local stores grounded by COVID-19 managed from Google Sheets (built with **TypeScript**)
 - [sequent](//github.com/sobstel/sequent) - short-term memory training game (built with **React Native**)
 - [golazon](//github.com/sobstel/golazon-legacy) - mnmlst football data (built with **next.js** and **Ruby**) _ON HOLD_
-- [voltpuzzle](//github.com/sobstel/voltpuzzle) - sequel to Hydropuzzle (built with **React Native** and **Expo**) _ON HOLD__
+- [voltpuzzle](//github.com/sobstel/voltpuzzle) - sequel to Hydropuzzle (built with **React Native** and **Expo**) _ON HOLD_
 
 **Recent gists**
 
